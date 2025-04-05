@@ -1,0 +1,259 @@
+User: h
+Agent: [🛰️ Event Summary]
+- ID: 1
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 4
+- Status: Normal
+- Reason: Unflagged normal event.
+User: id like to know about all problems today
+Agent: [🛰️ Event Summary]
+- ID: 1
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 4
+- Status: Normal
+- Reason: Unflagged normal event.
+User: fuck you
+Agent: [🛰️ Event Summary]
+- ID: 505
+- Caption: Movement detected for truck, car: a parking lot with cars parked in it
+- Objects Detected: truck, car
+- Frame Count: 5
+- Status: Normal
+- Reason: Unflagged normal event.
+User: id like to know about todays anomalys
+Agent: [🛰️ Event Summary]
+- ID: 1
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 4
+- Status: Normal
+- Reason: Unflagged normal event.
+User: anything else?
+Agent: [🛰️ Event Summary]
+- ID: 127
+- Caption: Movement detected for bench, car: a parking lot with cars parked in it
+- Objects Detected: bench, car
+- Frame Count: 2
+- Status: Anomaly
+- Reason: Suspicious object detected
+User: give me the report
+Agent: 
+🔍 Event 1:
+[🛰️ Event Summary]
+- ID: 1
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 4
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 2:
+[🛰️ Event Summary]
+- ID: 2
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 4
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 3:
+[🛰️ Event Summary]
+- ID: 3
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 4
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 4:
+[🛰️ Event Summary]
+- ID: 4
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 5
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 5:
+[🛰️ Event Summary]
+- ID: 5
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 4
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 6:
+[🛰️ Event Summary]
+- ID: 6
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 3
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 7:
+[🛰️ Event Summary]
+- ID: 7
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 4
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 8:
+[🛰️ Event Summary]
+- ID: 8
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 3
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 9:
+[🛰️ Event Summary]
+- ID: 9
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 3
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 10:
+[🛰️ Event Summary]
+- ID: 10
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 3
+- Status: Normal
+- Reason: Unflagged normal event.
+
+User: give me todays report in pdf
+Agent: 
+🔍 Event 1:
+[🛰️ Event Summary]
+- ID: 1
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 4
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 2:
+[🛰️ Event Summary]
+- ID: 2
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 4
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 3:
+[🛰️ Event Summary]
+- ID: 3
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 4
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 4:
+[🛰️ Event Summary]
+- ID: 4
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 5
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 5:
+[🛰️ Event Summary]
+- ID: 5
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 4
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 6:
+[🛰️ Event Summary]
+- ID: 6
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 3
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 7:
+[🛰️ Event Summary]
+- ID: 7
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 4
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 8:
+[🛰️ Event Summary]
+- ID: 8
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 3
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 9:
+[🛰️ Event Summary]
+- ID: 9
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 3
+- Status: Normal
+- Reason: Unflagged normal event.
+
+🔍 Event 10:
+[🛰️ Event Summary]
+- ID: 10
+- Caption: Movement detected for car: a parking lot with cars parked in it
+- Objects Detected: car
+- Frame Count: 3
+- Status: Normal
+- Reason: Unflagged normal event.
+
+User: hey
+Agent: [🛰️ Event Summary]
+- ID: 505
+- Caption: Movement detected for truck, car: a parking lot with cars parked in it
+- Objects Detected: truck, car
+- Frame Count: 5
+- Status: Normal
+- Reason: Unflagged normal event.
+User: give me the report
+Agent: 📄 Report has been generated and mailed to you.
+User: hey how was today
+Agent: GORQ error: HTTPSConnectionPool(host='gorq.ai', port=443): Max retries exceeded with url: /api/v1/paraphrase (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x784360462410>: Failed to resolve 'gorq.ai' ([Errno -2] Name or service not known)"))
+User: hey, how was today
+Agent: GROQ error: 'choices'
+User: hey, how was today
+Agent: GROQ error: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+User: hey, how was today
+Agent: Here is a summary of the drone surveillance event:
+
+**Event Summary:**
+
+* **Location:** A parking lot with multiple cars parked
+* **Objects detected:** A bench and a car
+* **Frame Count:** 2 frames of video footage
+* **Reason for Alert:** A suspicious object was detected, triggering the movement alert.
+
+**Analysis:**
+
+The drone's surveillance system has detected movement in a parking lot, specifically a bench and a car. The system has flagged this as a suspicious object detection, which may require further investigation to determine the nature of the movement and ensure security protocols are in place.
+User: great, i want the complete report
+Agent: 📨 Report generated and emailed successfully.
+User: there was alot of traffic today
+Agent: **Event Summary:**
+
+The drone's surveillance system has detected movement in a parking lot, specifically a truck and a car. However, the system has classified this event as "Normal Activity" and therefore does not require further investigation. The event has been flagged as non-suspicious and does not pose a security threat.

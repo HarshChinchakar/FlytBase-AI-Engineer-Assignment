@@ -1,0 +1,584 @@
+event_id,objects,caption,start_time,end_time,frame_count,frame_ids,suspicious
+1,['car'],Movement detected for car: a parking lot with cars parked in it,0.0333666666666666,0.0333666666666666,4,"['frame_0001.jpg', 'frame_0001.jpg', 'frame_0001.jpg', 'frame_0001.jpg']",False
+2,['car'],Movement detected for car: a parking lot with cars parked in it,0.0667333333333333,0.0667333333333333,4,"['frame_0002.jpg', 'frame_0002.jpg', 'frame_0002.jpg', 'frame_0002.jpg']",False
+3,['car'],Movement detected for car: a parking lot with cars parked in it,0.1001,0.1001,4,"['frame_0003.jpg', 'frame_0003.jpg', 'frame_0003.jpg', 'frame_0003.jpg']",False
+4,['car'],Movement detected for car: a parking lot with cars parked in it,0.1334666666666666,0.1334666666666666,5,"['frame_0004.jpg', 'frame_0004.jpg', 'frame_0004.jpg', 'frame_0004.jpg', 'frame_0004.jpg']",False
+5,['car'],Movement detected for car: a parking lot with cars parked in it,0.1668333333333333,0.1668333333333333,4,"['frame_0005.jpg', 'frame_0005.jpg', 'frame_0005.jpg', 'frame_0005.jpg']",False
+6,['car'],Movement detected for car: a parking lot with cars parked in it,0.2002,0.2002,3,"['frame_0006.jpg', 'frame_0006.jpg', 'frame_0006.jpg']",False
+7,['car'],Movement detected for car: a parking lot with cars parked in it,0.2335666666666666,0.2335666666666666,4,"['frame_0007.jpg', 'frame_0007.jpg', 'frame_0007.jpg', 'frame_0007.jpg']",False
+8,['car'],Movement detected for car: a parking lot with cars parked in it,0.2669333333333333,0.2669333333333333,3,"['frame_0008.jpg', 'frame_0008.jpg', 'frame_0008.jpg']",False
+9,['car'],Movement detected for car: a parking lot with cars parked in it,0.3003,0.3003,3,"['frame_0009.jpg', 'frame_0009.jpg', 'frame_0009.jpg']",False
+10,['car'],Movement detected for car: a parking lot with cars parked in it,0.3336666666666666,0.3336666666666666,3,"['frame_0010.jpg', 'frame_0010.jpg', 'frame_0010.jpg']",False
+11,['car'],Movement detected for car: a parking lot with cars parked in it,0.3670333333333334,0.3670333333333334,3,"['frame_0011.jpg', 'frame_0011.jpg', 'frame_0011.jpg']",False
+12,['car'],Movement detected for car: a parking lot with cars parked in it,0.4004,0.4004,4,"['frame_0012.jpg', 'frame_0012.jpg', 'frame_0012.jpg', 'frame_0012.jpg']",False
+13,['car'],Movement detected for car: a parking lot with cars parked in it,0.4337666666666667,0.4337666666666667,4,"['frame_0013.jpg', 'frame_0013.jpg', 'frame_0013.jpg', 'frame_0013.jpg']",False
+14,['car'],Movement detected for car: a parking lot with cars parked in it,0.4671333333333333,0.4671333333333333,4,"['frame_0014.jpg', 'frame_0014.jpg', 'frame_0014.jpg', 'frame_0014.jpg']",False
+15,['car'],Movement detected for car: a parking lot with cars parked in it,0.5005000000000001,0.5005000000000001,4,"['frame_0015.jpg', 'frame_0015.jpg', 'frame_0015.jpg', 'frame_0015.jpg']",False
+16,['car'],Movement detected for car: a parking lot with cars parked in it,0.5338666666666667,0.5338666666666667,4,"['frame_0016.jpg', 'frame_0016.jpg', 'frame_0016.jpg', 'frame_0016.jpg']",False
+17,['car'],Movement detected for car: a parking lot with cars parked in it,0.5672333333333334,0.5672333333333334,3,"['frame_0017.jpg', 'frame_0017.jpg', 'frame_0017.jpg']",False
+18,['car'],Movement detected for car: a parking lot with cars parked in it,0.6006,0.6006,3,"['frame_0018.jpg', 'frame_0018.jpg', 'frame_0018.jpg']",False
+19,['car'],Movement detected for car: a parking lot with cars parked in it,0.6339666666666667,0.6339666666666667,3,"['frame_0019.jpg', 'frame_0019.jpg', 'frame_0019.jpg']",False
+20,['car'],Movement detected for car: a parking lot with cars parked in it,0.6673333333333333,0.6673333333333333,3,"['frame_0020.jpg', 'frame_0020.jpg', 'frame_0020.jpg']",False
+21,['car'],Movement detected for car: a parking lot with cars parked in it,0.7007000000000001,0.7007000000000001,3,"['frame_0021.jpg', 'frame_0021.jpg', 'frame_0021.jpg']",False
+22,['car'],Movement detected for car: a parking lot with cars parked in it,0.7340666666666668,0.7340666666666668,2,"['frame_0022.jpg', 'frame_0022.jpg']",False
+23,['car'],Movement detected for car: a parking lot with cars parked in it,0.7674333333333334,0.7674333333333334,3,"['frame_0023.jpg', 'frame_0023.jpg', 'frame_0023.jpg']",False
+24,['car'],Movement detected for car: a parking lot with cars parked in it,0.8008000000000001,0.8008000000000001,3,"['frame_0024.jpg', 'frame_0024.jpg', 'frame_0024.jpg']",False
+25,['car'],Movement detected for car: a parking lot with cars parked in it,0.8341666666666667,0.8341666666666667,3,"['frame_0025.jpg', 'frame_0025.jpg', 'frame_0025.jpg']",False
+26,['car'],Movement detected for car: a parking lot with cars parked in it,0.8675333333333334,0.8675333333333334,3,"['frame_0026.jpg', 'frame_0026.jpg', 'frame_0026.jpg']",False
+27,['car'],Movement detected for car: a parking lot with cars parked in it,0.9009,0.9009,3,"['frame_0027.jpg', 'frame_0027.jpg', 'frame_0027.jpg']",False
+28,['car'],Movement detected for car: a parking lot with cars parked in it,0.9342666666666668,0.9342666666666668,2,"['frame_0028.jpg', 'frame_0028.jpg']",False
+29,['car'],Movement detected for car: a parking lot with cars parked in it,0.9676333333333332,0.9676333333333332,4,"['frame_0029.jpg', 'frame_0029.jpg', 'frame_0029.jpg', 'frame_0029.jpg']",False
+30,['car'],Movement detected for car: a parking lot with cars parked in it,1.001,1.001,4,"['frame_0030.jpg', 'frame_0030.jpg', 'frame_0030.jpg', 'frame_0030.jpg']",False
+31,['car'],Movement detected for car: a parking lot with cars parked in it,1.0343666666666669,1.0343666666666669,3,"['frame_0031.jpg', 'frame_0031.jpg', 'frame_0031.jpg']",False
+32,['car'],Movement detected for car: a parking lot with cars parked in it,1.0677333333333334,1.0677333333333334,4,"['frame_0032.jpg', 'frame_0032.jpg', 'frame_0032.jpg', 'frame_0032.jpg']",False
+33,['car'],Movement detected for car: a parking lot with cars parked in it,1.1011,1.1011,3,"['frame_0033.jpg', 'frame_0033.jpg', 'frame_0033.jpg']",False
+34,['car'],Movement detected for car: a parking lot with cars parked in it,1.1344666666666667,1.1344666666666667,4,"['frame_0034.jpg', 'frame_0034.jpg', 'frame_0034.jpg', 'frame_0034.jpg']",False
+35,['car'],Movement detected for car: a parking lot with cars parked in it,1.1678333333333333,1.1678333333333333,6,"['frame_0035.jpg', 'frame_0035.jpg', 'frame_0035.jpg', 'frame_0035.jpg', 'frame_0035.jpg', 'frame_0035.jpg']",False
+36,['car'],Movement detected for car: a parking lot with cars parked in it,1.2012,1.2012,6,"['frame_0036.jpg', 'frame_0036.jpg', 'frame_0036.jpg', 'frame_0036.jpg', 'frame_0036.jpg', 'frame_0036.jpg']",False
+37,['car'],Movement detected for car: a parking lot with cars parked in it,1.2345666666666668,1.2345666666666668,5,"['frame_0037.jpg', 'frame_0037.jpg', 'frame_0037.jpg', 'frame_0037.jpg', 'frame_0037.jpg']",False
+38,['car'],Movement detected for car: a parking lot with cars parked in it,1.2679333333333334,1.2679333333333334,5,"['frame_0038.jpg', 'frame_0038.jpg', 'frame_0038.jpg', 'frame_0038.jpg', 'frame_0038.jpg']",False
+39,['car'],Movement detected for car: a parking lot with cars parked in it,1.3013,1.3013,6,"['frame_0039.jpg', 'frame_0039.jpg', 'frame_0039.jpg', 'frame_0039.jpg', 'frame_0039.jpg', 'frame_0039.jpg']",False
+40,['car'],Movement detected for car: a parking lot with cars parked in it,1.334666666666667,1.334666666666667,5,"['frame_0040.jpg', 'frame_0040.jpg', 'frame_0040.jpg', 'frame_0040.jpg', 'frame_0040.jpg']",False
+41,['car'],Movement detected for car: a parking lot with cars parked in it,1.3680333333333334,1.3680333333333334,4,"['frame_0041.jpg', 'frame_0041.jpg', 'frame_0041.jpg', 'frame_0041.jpg']",False
+42,['car'],Movement detected for car: a parking lot with cars parked in it,1.4014000000000002,1.4014000000000002,5,"['frame_0042.jpg', 'frame_0042.jpg', 'frame_0042.jpg', 'frame_0042.jpg', 'frame_0042.jpg']",False
+43,['car'],Movement detected for car: a parking lot with cars parked in it,1.4347666666666667,1.4347666666666667,5,"['frame_0043.jpg', 'frame_0043.jpg', 'frame_0043.jpg', 'frame_0043.jpg', 'frame_0043.jpg']",False
+44,['car'],Movement detected for car: a parking lot with cars parked in it,1.4681333333333335,1.4681333333333335,5,"['frame_0044.jpg', 'frame_0044.jpg', 'frame_0044.jpg', 'frame_0044.jpg', 'frame_0044.jpg']",False
+45,['car'],Movement detected for car: a parking lot with cars parked in it,1.5015,1.5015,7,"['frame_0045.jpg', 'frame_0045.jpg', 'frame_0045.jpg', 'frame_0045.jpg', 'frame_0045.jpg', 'frame_0045.jpg', 'frame_0045.jpg']",False
+46,['car'],Movement detected for car: a parking lot with cars parked in it,1.5348666666666668,1.5348666666666668,7,"['frame_0046.jpg', 'frame_0046.jpg', 'frame_0046.jpg', 'frame_0046.jpg', 'frame_0046.jpg', 'frame_0046.jpg', 'frame_0046.jpg']",False
+47,['car'],Movement detected for car: a parking lot with cars parked in it,1.5682333333333334,1.5682333333333334,7,"['frame_0047.jpg', 'frame_0047.jpg', 'frame_0047.jpg', 'frame_0047.jpg', 'frame_0047.jpg', 'frame_0047.jpg', 'frame_0047.jpg']",False
+48,['car'],Movement detected for car: a parking lot with cars parked in it,1.6016,1.6016,5,"['frame_0048.jpg', 'frame_0048.jpg', 'frame_0048.jpg', 'frame_0048.jpg', 'frame_0048.jpg']",False
+49,['car'],Movement detected for car: a parking lot with cars parked in it,1.634966666666667,1.634966666666667,5,"['frame_0049.jpg', 'frame_0049.jpg', 'frame_0049.jpg', 'frame_0049.jpg', 'frame_0049.jpg']",False
+50,['car'],Movement detected for car: a parking lot with cars parked in it,1.6683333333333334,1.6683333333333334,6,"['frame_0050.jpg', 'frame_0050.jpg', 'frame_0050.jpg', 'frame_0050.jpg', 'frame_0050.jpg', 'frame_0050.jpg']",False
+51,['car'],Movement detected for car: a parking lot with cars parked in it,1.7017,1.7017,6,"['frame_0051.jpg', 'frame_0051.jpg', 'frame_0051.jpg', 'frame_0051.jpg', 'frame_0051.jpg', 'frame_0051.jpg']",False
+52,['car'],Movement detected for car: a parking lot with cars parked in it,1.7350666666666668,1.7350666666666668,5,"['frame_0052.jpg', 'frame_0052.jpg', 'frame_0052.jpg', 'frame_0052.jpg', 'frame_0052.jpg']",False
+53,['car'],Movement detected for car: a parking lot with cars parked in it,1.7684333333333335,1.7684333333333335,5,"['frame_0053.jpg', 'frame_0053.jpg', 'frame_0053.jpg', 'frame_0053.jpg', 'frame_0053.jpg']",False
+54,['car'],Movement detected for car: a parking lot with cars parked in it,1.8018000000000003,1.8018000000000003,4,"['frame_0054.jpg', 'frame_0054.jpg', 'frame_0054.jpg', 'frame_0054.jpg']",False
+55,['car'],Movement detected for car: a parking lot with cars parked in it,1.8351666666666668,1.8351666666666668,4,"['frame_0055.jpg', 'frame_0055.jpg', 'frame_0055.jpg', 'frame_0055.jpg']",False
+56,['car'],Movement detected for car: a parking lot with cars parked in it,1.8685333333333332,1.8685333333333332,4,"['frame_0056.jpg', 'frame_0056.jpg', 'frame_0056.jpg', 'frame_0056.jpg']",False
+57,['car'],Movement detected for car: a parking lot with cars parked in it,1.9019,1.9019,4,"['frame_0057.jpg', 'frame_0057.jpg', 'frame_0057.jpg', 'frame_0057.jpg']",False
+58,['car'],Movement detected for car: a parking lot with cars parked in it,1.9352666666666667,1.9352666666666667,4,"['frame_0058.jpg', 'frame_0058.jpg', 'frame_0058.jpg', 'frame_0058.jpg']",False
+59,['car'],Movement detected for car: a parking lot with cars parked in it,1.9686333333333332,1.9686333333333332,3,"['frame_0059.jpg', 'frame_0059.jpg', 'frame_0059.jpg']",False
+60,['car'],Movement detected for car: a parking lot with cars parked in it,2.002,2.002,4,"['frame_0060.jpg', 'frame_0060.jpg', 'frame_0060.jpg', 'frame_0060.jpg']",False
+61,['car'],Movement detected for car: a parking lot with cars parked in it,2.0353666666666665,2.0353666666666665,4,"['frame_0061.jpg', 'frame_0061.jpg', 'frame_0061.jpg', 'frame_0061.jpg']",False
+62,['car'],Movement detected for car: a parking lot with cars parked in it,2.0687333333333333,2.0687333333333333,3,"['frame_0062.jpg', 'frame_0062.jpg', 'frame_0062.jpg']",False
+63,['car'],Movement detected for car: a parking lot with cars parked in it,2.1021,2.1021,3,"['frame_0063.jpg', 'frame_0063.jpg', 'frame_0063.jpg']",False
+64,['car'],Movement detected for car: a parking lot with cars parked in it,2.135466666666667,2.135466666666667,4,"['frame_0064.jpg', 'frame_0064.jpg', 'frame_0064.jpg', 'frame_0064.jpg']",False
+65,['car'],Movement detected for car: a parking lot with cars parked in it,2.1688333333333336,2.1688333333333336,4,"['frame_0065.jpg', 'frame_0065.jpg', 'frame_0065.jpg', 'frame_0065.jpg']",False
+66,['car'],Movement detected for car: a parking lot with cars parked in it,2.2022,2.2022,3,"['frame_0066.jpg', 'frame_0066.jpg', 'frame_0066.jpg']",False
+67,['car'],Movement detected for car: a parking lot with cars parked in it,2.2355666666666667,2.2355666666666667,3,"['frame_0067.jpg', 'frame_0067.jpg', 'frame_0067.jpg']",False
+68,['car'],Movement detected for car: a parking lot with cars parked in it,2.268933333333333,2.268933333333333,4,"['frame_0068.jpg', 'frame_0068.jpg', 'frame_0068.jpg', 'frame_0068.jpg']",False
+69,['car'],Movement detected for car: a parking lot with cars parked in it,2.3023,2.3023,3,"['frame_0069.jpg', 'frame_0069.jpg', 'frame_0069.jpg']",False
+70,['car'],Movement detected for car: a parking lot with cars parked in it,2.3356666666666666,2.3356666666666666,3,"['frame_0070.jpg', 'frame_0070.jpg', 'frame_0070.jpg']",False
+71,['car'],Movement detected for car: a parking lot with cars parked in it,2.3690333333333333,2.3690333333333333,4,"['frame_0071.jpg', 'frame_0071.jpg', 'frame_0071.jpg', 'frame_0071.jpg']",False
+72,['car'],Movement detected for car: a parking lot with cars parked in it,2.4024,2.4024,4,"['frame_0072.jpg', 'frame_0072.jpg', 'frame_0072.jpg', 'frame_0072.jpg']",False
+73,['car'],Movement detected for car: a parking lot with cars parked in it,2.435766666666667,2.435766666666667,5,"['frame_0073.jpg', 'frame_0073.jpg', 'frame_0073.jpg', 'frame_0073.jpg', 'frame_0073.jpg']",False
+74,['car'],Movement detected for car: a parking lot with cars parked in it,2.4691333333333336,2.4691333333333336,4,"['frame_0074.jpg', 'frame_0074.jpg', 'frame_0074.jpg', 'frame_0074.jpg']",False
+75,['car'],Movement detected for car: a parking lot with cars parked in it,2.5025,2.5025,3,"['frame_0075.jpg', 'frame_0075.jpg', 'frame_0075.jpg']",False
+76,['car'],Movement detected for car: a parking lot with cars parked in it,2.5358666666666667,2.5358666666666667,3,"['frame_0076.jpg', 'frame_0076.jpg', 'frame_0076.jpg']",False
+77,['car'],Movement detected for car: a parking lot with cars parked in it,2.569233333333333,2.569233333333333,3,"['frame_0077.jpg', 'frame_0077.jpg', 'frame_0077.jpg']",False
+78,['car'],Movement detected for car: a parking lot with cars parked in it,2.6026,2.6026,4,"['frame_0078.jpg', 'frame_0078.jpg', 'frame_0078.jpg', 'frame_0078.jpg']",False
+79,['car'],Movement detected for car: a parking lot with cars parked in it,2.635966666666667,2.635966666666667,3,"['frame_0079.jpg', 'frame_0079.jpg', 'frame_0079.jpg']",False
+80,['car'],Movement detected for car: a parking lot with cars parked in it,2.6693333333333333,2.6693333333333333,3,"['frame_0080.jpg', 'frame_0080.jpg', 'frame_0080.jpg']",False
+81,['car'],Movement detected for car: a parking lot with cars parked in it,2.7027,2.7027,4,"['frame_0081.jpg', 'frame_0081.jpg', 'frame_0081.jpg', 'frame_0081.jpg']",False
+82,['car'],Movement detected for car: a parking lot with cars parked in it,2.736066666666667,2.736066666666667,4,"['frame_0082.jpg', 'frame_0082.jpg', 'frame_0082.jpg', 'frame_0082.jpg']",False
+83,['car'],Movement detected for car: a parking lot with cars parked in it,2.7694333333333336,2.7694333333333336,4,"['frame_0083.jpg', 'frame_0083.jpg', 'frame_0083.jpg', 'frame_0083.jpg']",False
+84,['car'],Movement detected for car: a parking lot with cars parked in it,2.8028000000000004,2.8028000000000004,5,"['frame_0084.jpg', 'frame_0084.jpg', 'frame_0084.jpg', 'frame_0084.jpg', 'frame_0084.jpg']",False
+85,['car'],Movement detected for car: a parking lot with cars parked in it,2.8361666666666667,2.8361666666666667,4,"['frame_0085.jpg', 'frame_0085.jpg', 'frame_0085.jpg', 'frame_0085.jpg']",False
+86,['car'],Movement detected for car: a parking lot with cars parked in it,2.869533333333333,2.869533333333333,6,"['frame_0086.jpg', 'frame_0086.jpg', 'frame_0086.jpg', 'frame_0086.jpg', 'frame_0086.jpg', 'frame_0086.jpg']",False
+87,['car'],Movement detected for car: a parking lot with cars parked in it,2.9029000000000003,2.9029000000000003,5,"['frame_0087.jpg', 'frame_0087.jpg', 'frame_0087.jpg', 'frame_0087.jpg', 'frame_0087.jpg']",False
+88,['car'],Movement detected for car: a parking lot with cars parked in it,2.936266666666667,2.936266666666667,6,"['frame_0088.jpg', 'frame_0088.jpg', 'frame_0088.jpg', 'frame_0088.jpg', 'frame_0088.jpg', 'frame_0088.jpg']",False
+89,['car'],Movement detected for car: a parking lot with cars parked in it,2.9696333333333333,2.9696333333333333,7,"['frame_0089.jpg', 'frame_0089.jpg', 'frame_0089.jpg', 'frame_0089.jpg', 'frame_0089.jpg', 'frame_0089.jpg', 'frame_0089.jpg']",False
+90,['car'],Movement detected for car: a parking lot with cars parked in it,3.003,3.003,4,"['frame_0090.jpg', 'frame_0090.jpg', 'frame_0090.jpg', 'frame_0090.jpg']",False
+91,['car'],Movement detected for car: a parking lot with cars parked in it,3.036366666666667,3.036366666666667,4,"['frame_0091.jpg', 'frame_0091.jpg', 'frame_0091.jpg', 'frame_0091.jpg']",False
+92,['car'],Movement detected for car: a parking lot with cars parked in it,3.0697333333333336,3.0697333333333336,4,"['frame_0092.jpg', 'frame_0092.jpg', 'frame_0092.jpg', 'frame_0092.jpg']",False
+93,['car'],Movement detected for car: a parking lot with cars parked in it,3.1031,3.1031,4,"['frame_0093.jpg', 'frame_0093.jpg', 'frame_0093.jpg', 'frame_0093.jpg']",False
+94,['car'],Movement detected for car: a parking lot with cars parked in it,3.1364666666666667,3.1364666666666667,4,"['frame_0094.jpg', 'frame_0094.jpg', 'frame_0094.jpg', 'frame_0094.jpg']",False
+95,['car'],Movement detected for car: a parking lot with cars parked in it,3.169833333333333,3.169833333333333,4,"['frame_0095.jpg', 'frame_0095.jpg', 'frame_0095.jpg', 'frame_0095.jpg']",False
+96,['car'],Movement detected for car: a parking lot with cars parked in it,3.2032000000000003,3.2032000000000003,3,"['frame_0096.jpg', 'frame_0096.jpg', 'frame_0096.jpg']",False
+97,['car'],Movement detected for car: a parking lot with cars parked in it,3.236566666666667,3.236566666666667,4,"['frame_0097.jpg', 'frame_0097.jpg', 'frame_0097.jpg', 'frame_0097.jpg']",False
+98,['car'],Movement detected for car: a parking lot with cars parked in it,3.2699333333333334,3.2699333333333334,4,"['frame_0098.jpg', 'frame_0098.jpg', 'frame_0098.jpg', 'frame_0098.jpg']",False
+99,['car'],Movement detected for car: a parking lot with cars parked in it,3.3033,3.3033,3,"['frame_0099.jpg', 'frame_0099.jpg', 'frame_0099.jpg']",False
+100,['car'],Movement detected for car: a parking lot with cars parked in it,3.336666666666667,3.336666666666667,4,"['frame_0100.jpg', 'frame_0100.jpg', 'frame_0100.jpg', 'frame_0100.jpg']",False
+101,['car'],Movement detected for car: a parking lot with cars parked in it,3.3700333333333337,3.3700333333333337,4,"['frame_0101.jpg', 'frame_0101.jpg', 'frame_0101.jpg', 'frame_0101.jpg']",False
+102,['car'],Movement detected for car: a parking lot with cars parked in it,3.4034,3.4034,5,"['frame_0102.jpg', 'frame_0102.jpg', 'frame_0102.jpg', 'frame_0102.jpg', 'frame_0102.jpg']",False
+103,['car'],Movement detected for car: a parking lot with cars parked in it,3.4367666666666667,3.4367666666666667,5,"['frame_0103.jpg', 'frame_0103.jpg', 'frame_0103.jpg', 'frame_0103.jpg', 'frame_0103.jpg']",False
+104,['car'],Movement detected for car: a parking lot with cars parked in it,3.470133333333333,3.470133333333333,4,"['frame_0104.jpg', 'frame_0104.jpg', 'frame_0104.jpg', 'frame_0104.jpg']",False
+105,['car'],Movement detected for car: a parking lot with cars parked in it,3.5035000000000003,3.5035000000000003,4,"['frame_0105.jpg', 'frame_0105.jpg', 'frame_0105.jpg', 'frame_0105.jpg']",False
+106,['car'],Movement detected for car: a parking lot with cars parked in it,3.536866666666667,3.536866666666667,4,"['frame_0106.jpg', 'frame_0106.jpg', 'frame_0106.jpg', 'frame_0106.jpg']",False
+107,['car'],Movement detected for car: a parking lot with cars parked in it,3.5702333333333334,3.5702333333333334,3,"['frame_0107.jpg', 'frame_0107.jpg', 'frame_0107.jpg']",False
+108,['car'],Movement detected for car: a parking lot with cars parked in it,3.6036000000000006,3.6036000000000006,3,"['frame_0108.jpg', 'frame_0108.jpg', 'frame_0108.jpg']",False
+109,['car'],Movement detected for car: a parking lot with cars parked in it,3.636966666666667,3.636966666666667,4,"['frame_0109.jpg', 'frame_0109.jpg', 'frame_0109.jpg', 'frame_0109.jpg']",False
+110,['car'],Movement detected for car: a parking lot with cars parked in it,3.6703333333333337,3.6703333333333337,4,"['frame_0110.jpg', 'frame_0110.jpg', 'frame_0110.jpg', 'frame_0110.jpg']",False
+111,['car'],Movement detected for car: a parking lot with cars parked in it,3.7037,3.7037,3,"['frame_0111.jpg', 'frame_0111.jpg', 'frame_0111.jpg']",False
+112,['car'],Movement detected for car: a parking lot with cars parked in it,3.7370666666666663,3.7370666666666663,2,"['frame_0112.jpg', 'frame_0112.jpg']",False
+113,['car'],Movement detected for car: a parking lot with cars parked in it,3.7704333333333335,3.7704333333333335,2,"['frame_0113.jpg', 'frame_0113.jpg']",False
+114,['car'],Movement detected for car: a parking lot with cars parked in it,3.8038,3.8038,3,"['frame_0114.jpg', 'frame_0114.jpg', 'frame_0114.jpg']",False
+115,['car'],Movement detected for car: a parking lot with cars parked in it,3.837166666666667,3.837166666666667,2,"['frame_0115.jpg', 'frame_0115.jpg']",False
+116,['car'],Movement detected for car: a parking lot with cars parked in it,3.870533333333333,3.870533333333333,1,['frame_0116.jpg'],False
+117,['car'],Movement detected for car: a parking lot with cars parked in it,3.9039,3.9039,1,['frame_0117.jpg'],False
+118,['car'],Movement detected for car: a parking lot with cars parked in it,3.9706333333333337,3.9706333333333337,1,['frame_0119.jpg'],False
+119,['car'],Movement detected for car: a parking lot with cars parked in it,4.004,4.004,1,['frame_0120.jpg'],False
+120,['car'],Movement detected for car: a parking lot with cars parked in it,4.037366666666667,4.037366666666667,1,['frame_0121.jpg'],False
+121,['car'],Movement detected for car: a parking lot with cars parked in it,4.070733333333333,4.070733333333333,1,['frame_0122.jpg'],False
+122,['car'],Movement detected for car: a parking lot with cars parked in it,4.1041,4.1041,1,['frame_0123.jpg'],False
+123,['car'],Movement detected for car: a parking lot with cars parked in it,4.137466666666667,4.137466666666667,1,['frame_0124.jpg'],False
+124,['car'],Movement detected for car: a parking lot with cars parked in it,4.170833333333333,4.170833333333333,1,['frame_0125.jpg'],False
+125,['car'],Movement detected for car: a parking lot with cars parked in it,4.2042,4.2042,1,['frame_0126.jpg'],False
+126,['car'],Movement detected for car: a parking lot with cars parked in it,4.237566666666667,4.237566666666667,1,['frame_0127.jpg'],False
+127,"['bench', 'car']","Movement detected for bench, car: a parking lot with cars parked in it",4.337666666666667,4.337666666666667,2,"['frame_0130.jpg', 'frame_0130.jpg']",True
+128,['car'],Movement detected for car: a parking lot with cars parked in it,4.371033333333333,4.371033333333333,1,['frame_0131.jpg'],False
+129,['car'],Movement detected for car: a parking lot with cars parked in it,4.4044,4.4044,1,['frame_0132.jpg'],False
+130,['car'],Movement detected for car: a parking lot with cars parked in it,4.437766666666667,4.437766666666667,2,"['frame_0133.jpg', 'frame_0133.jpg']",False
+131,"['bench', 'car']","Movement detected for bench, car: a parking lot with cars parked in it",4.471133333333333,4.471133333333333,3,"['frame_0134.jpg', 'frame_0134.jpg', 'frame_0134.jpg']",True
+132,['car'],Movement detected for car: a parking lot with cars parked in it,4.5045,4.5045,2,"['frame_0135.jpg', 'frame_0135.jpg']",False
+133,['car'],Movement detected for car: a parking lot with cars parked in it,4.537866666666667,4.537866666666667,2,"['frame_0136.jpg', 'frame_0136.jpg']",False
+134,['car'],Movement detected for car: a parking lot with cars parked in it,4.571233333333334,4.571233333333334,1,['frame_0137.jpg'],False
+135,['car'],Movement detected for car: a parking lot with cars parked in it,4.6046000000000005,4.6046000000000005,1,['frame_0138.jpg'],False
+136,['car'],Movement detected for car: a parking lot with cars parked in it,4.7047,4.7047,1,['frame_0141.jpg'],False
+137,['car'],Movement detected for car: a parking lot with cars parked in it,4.738066666666667,4.738066666666667,2,"['frame_0142.jpg', 'frame_0142.jpg']",False
+138,['car'],Movement detected for car: a parking lot with cars parked in it,4.771433333333333,4.771433333333333,1,['frame_0143.jpg'],False
+139,['car'],Movement detected for car: a parking lot with cars parked in it,4.8048,4.8048,2,"['frame_0144.jpg', 'frame_0144.jpg']",False
+140,['car'],Movement detected for car: a parking lot with cars parked in it,4.838166666666667,4.838166666666667,3,"['frame_0145.jpg', 'frame_0145.jpg', 'frame_0145.jpg']",False
+141,['car'],Movement detected for car: a parking lot with cars parked in it,4.871533333333334,4.871533333333334,2,"['frame_0146.jpg', 'frame_0146.jpg']",False
+142,['car'],Movement detected for car: a parking lot with cars parked in it,4.9049000000000005,4.9049000000000005,1,['frame_0147.jpg'],False
+143,['car'],Movement detected for car: a parking lot with cars parked in it,4.938266666666667,4.938266666666667,2,"['frame_0148.jpg', 'frame_0148.jpg']",False
+144,['car'],Movement detected for car: a parking lot with cars parked in it,4.971633333333334,4.971633333333334,2,"['frame_0149.jpg', 'frame_0149.jpg']",False
+145,['car'],Movement detected for car: a parking lot with cars parked in it,5.005,5.005,2,"['frame_0150.jpg', 'frame_0150.jpg']",False
+146,['car'],Movement detected for car: a parking lot with cars parked in it,5.038366666666667,5.038366666666667,1,['frame_0151.jpg'],False
+147,['car'],Movement detected for car: a parking lot with cars parked in it,5.1051,5.1051,1,['frame_0153.jpg'],False
+148,['car'],Movement detected for car: a parking lot with cars parked in it,5.138466666666667,5.138466666666667,1,['frame_0154.jpg'],False
+149,['car'],Movement detected for car: a parking lot with cars parked in it,5.171833333333334,5.171833333333334,1,['frame_0155.jpg'],False
+150,['car'],Movement detected for car: a parking lot with cars parked in it,5.2052000000000005,5.2052000000000005,1,['frame_0156.jpg'],False
+151,['car'],Movement detected for car: a parking lot with cars parked in it,5.238566666666667,5.238566666666667,1,['frame_0157.jpg'],False
+152,['car'],Movement detected for car: a parking lot with cars parked in it,5.271933333333334,5.271933333333334,1,['frame_0158.jpg'],False
+153,['car'],Movement detected for car: a parking lot with cars parked in it,5.3053,5.3053,2,"['frame_0159.jpg', 'frame_0159.jpg']",False
+154,['car'],Movement detected for car: a parking lot with cars parked in it,5.338666666666667,5.338666666666667,3,"['frame_0160.jpg', 'frame_0160.jpg', 'frame_0160.jpg']",False
+155,['car'],Movement detected for car: a parking lot with cars parked in it,5.372033333333333,5.372033333333333,3,"['frame_0161.jpg', 'frame_0161.jpg', 'frame_0161.jpg']",False
+156,['car'],Movement detected for car: a parking lot with cars parked in it,5.4054,5.4054,3,"['frame_0162.jpg', 'frame_0162.jpg', 'frame_0162.jpg']",False
+157,['car'],Movement detected for car: a parking lot with cars parked in it,5.438766666666667,5.438766666666667,3,"['frame_0163.jpg', 'frame_0163.jpg', 'frame_0163.jpg']",False
+158,['car'],Movement detected for car: a parking lot with cars parked in it,5.472133333333334,5.472133333333334,2,"['frame_0164.jpg', 'frame_0164.jpg']",False
+159,"['bench', 'car']","Movement detected for bench, car: a parking lot with cars parked in it",5.5055000000000005,5.5055000000000005,3,"['frame_0165.jpg', 'frame_0165.jpg', 'frame_0165.jpg']",True
+160,['car'],Movement detected for car: a parking lot with cars parked in it,5.538866666666667,5.538866666666667,3,"['frame_0166.jpg', 'frame_0166.jpg', 'frame_0166.jpg']",False
+161,['car'],Movement detected for car: a parking lot with cars parked in it,5.572233333333335,5.572233333333335,3,"['frame_0167.jpg', 'frame_0167.jpg', 'frame_0167.jpg']",False
+162,['car'],Movement detected for car: a parking lot with cars parked in it,5.605600000000001,5.605600000000001,3,"['frame_0168.jpg', 'frame_0168.jpg', 'frame_0168.jpg']",False
+163,['car'],Movement detected for car: a parking lot with cars parked in it,5.638966666666667,5.638966666666667,3,"['frame_0169.jpg', 'frame_0169.jpg', 'frame_0169.jpg']",False
+164,['car'],Movement detected for car: a parking lot with cars parked in it,5.672333333333333,5.672333333333333,2,"['frame_0170.jpg', 'frame_0170.jpg']",False
+165,['car'],Movement detected for car: a parking lot with cars parked in it,5.7057,5.7057,2,"['frame_0171.jpg', 'frame_0171.jpg']",False
+166,['car'],Movement detected for car: a parking lot with cars parked in it,5.739066666666667,5.739066666666667,2,"['frame_0172.jpg', 'frame_0172.jpg']",False
+167,['car'],Movement detected for car: a parking lot with cars parked in it,5.772433333333334,5.772433333333334,3,"['frame_0173.jpg', 'frame_0173.jpg', 'frame_0173.jpg']",False
+168,['car'],Movement detected for car: a parking lot with cars parked in it,5.8058000000000005,5.8058000000000005,3,"['frame_0174.jpg', 'frame_0174.jpg', 'frame_0174.jpg']",False
+169,['car'],Movement detected for car: a parking lot with cars parked in it,5.839166666666667,5.839166666666667,3,"['frame_0175.jpg', 'frame_0175.jpg', 'frame_0175.jpg']",False
+170,['car'],Movement detected for car: a parking lot with cars parked in it,5.872533333333334,5.872533333333334,2,"['frame_0176.jpg', 'frame_0176.jpg']",False
+171,['car'],Movement detected for car: a parking lot with cars parked in it,5.9059,5.9059,2,"['frame_0177.jpg', 'frame_0177.jpg']",False
+172,['car'],Movement detected for car: a parking lot with cars parked in it,5.939266666666667,5.939266666666667,2,"['frame_0178.jpg', 'frame_0178.jpg']",False
+173,['car'],Movement detected for car: a parking lot with cars parked in it,5.9726333333333335,5.9726333333333335,4,"['frame_0179.jpg', 'frame_0179.jpg', 'frame_0179.jpg', 'frame_0179.jpg']",False
+174,['car'],Movement detected for car: a parking lot with cars parked in it,6.006,6.006,2,"['frame_0180.jpg', 'frame_0180.jpg']",False
+175,['car'],Movement detected for car: a parking lot with cars parked in it,6.039366666666667,6.039366666666667,1,['frame_0181.jpg'],False
+176,['car'],Movement detected for car: a parking lot with cars parked in it,6.072733333333334,6.072733333333334,2,"['frame_0182.jpg', 'frame_0182.jpg']",False
+177,['car'],Movement detected for car: a parking lot with cars parked in it,6.1061000000000005,6.1061000000000005,2,"['frame_0183.jpg', 'frame_0183.jpg']",False
+178,['car'],Movement detected for car: a parking lot with cars parked in it,6.139466666666667,6.139466666666667,1,['frame_0184.jpg'],False
+179,['car'],Movement detected for car: a parking lot with cars parked in it,6.172833333333334,6.172833333333334,1,['frame_0185.jpg'],False
+180,['car'],Movement detected for car: a parking lot with cars parked in it,6.2062,6.2062,2,"['frame_0186.jpg', 'frame_0186.jpg']",False
+181,['car'],Movement detected for car: a parking lot with cars parked in it,6.239566666666667,6.239566666666667,2,"['frame_0187.jpg', 'frame_0187.jpg']",False
+182,['car'],Movement detected for car: a parking lot with cars parked in it,6.2729333333333335,6.2729333333333335,1,['frame_0188.jpg'],False
+183,['car'],Movement detected for car: a parking lot with cars parked in it,6.3063,6.3063,2,"['frame_0189.jpg', 'frame_0189.jpg']",False
+184,['car'],Movement detected for car: a parking lot with cars parked in it,6.339666666666667,6.339666666666667,2,"['frame_0190.jpg', 'frame_0190.jpg']",False
+185,['car'],Movement detected for car: a parking lot with cars parked in it,6.373033333333334,6.373033333333334,3,"['frame_0191.jpg', 'frame_0191.jpg', 'frame_0191.jpg']",False
+186,['car'],Movement detected for car: a parking lot with cars parked in it,6.4064000000000005,6.4064000000000005,2,"['frame_0192.jpg', 'frame_0192.jpg']",False
+187,['car'],Movement detected for car: a parking lot with cars parked in it,6.439766666666667,6.439766666666667,2,"['frame_0193.jpg', 'frame_0193.jpg']",False
+188,['car'],Movement detected for car: a parking lot with cars parked in it,6.473133333333334,6.473133333333334,2,"['frame_0194.jpg', 'frame_0194.jpg']",False
+189,['car'],Movement detected for car: a parking lot with cars parked in it,6.5065,6.5065,3,"['frame_0195.jpg', 'frame_0195.jpg', 'frame_0195.jpg']",False
+190,['car'],Movement detected for car: a parking lot with cars parked in it,6.539866666666667,6.539866666666667,3,"['frame_0196.jpg', 'frame_0196.jpg', 'frame_0196.jpg']",False
+191,['car'],Movement detected for car: a parking lot with cars parked in it,6.5732333333333335,6.5732333333333335,2,"['frame_0197.jpg', 'frame_0197.jpg']",False
+192,['car'],Movement detected for car: a parking lot with cars parked in it,6.6066,6.6066,2,"['frame_0198.jpg', 'frame_0198.jpg']",False
+193,['car'],Movement detected for car: a parking lot with cars parked in it,6.639966666666667,6.639966666666667,1,['frame_0199.jpg'],False
+194,['car'],Movement detected for car: a parking lot with cars parked in it,6.673333333333334,6.673333333333334,1,['frame_0200.jpg'],False
+195,['car'],Movement detected for car: a parking lot with cars parked in it,6.7067000000000005,6.7067000000000005,1,['frame_0201.jpg'],False
+196,['car'],Movement detected for car: a parking lot with cars parked in it,6.740066666666667,6.740066666666667,2,"['frame_0202.jpg', 'frame_0202.jpg']",False
+197,['car'],Movement detected for car: a parking lot with cars parked in it,6.773433333333334,6.773433333333334,4,"['frame_0203.jpg', 'frame_0203.jpg', 'frame_0203.jpg', 'frame_0203.jpg']",False
+198,['car'],Movement detected for car: a parking lot with cars parked in it,6.8068,6.8068,2,"['frame_0204.jpg', 'frame_0204.jpg']",False
+199,['car'],Movement detected for car: a parking lot with cars parked in it,6.840166666666667,6.840166666666667,3,"['frame_0205.jpg', 'frame_0205.jpg', 'frame_0205.jpg']",False
+200,['car'],Movement detected for car: a parking lot with cars parked in it,6.8735333333333335,6.8735333333333335,2,"['frame_0206.jpg', 'frame_0206.jpg']",False
+201,['car'],Movement detected for car: a parking lot with cars parked in it,6.9069,6.9069,2,"['frame_0207.jpg', 'frame_0207.jpg']",False
+202,['car'],Movement detected for car: a parking lot with cars parked in it,6.940266666666667,6.940266666666667,1,['frame_0208.jpg'],False
+203,['car'],Movement detected for car: a parking lot with cars parked in it,6.973633333333334,6.973633333333334,2,"['frame_0209.jpg', 'frame_0209.jpg']",False
+204,['car'],Movement detected for car: a parking lot with cars parked in it,7.007000000000001,7.007000000000001,2,"['frame_0210.jpg', 'frame_0210.jpg']",False
+205,['car'],Movement detected for car: a parking lot with cars parked in it,7.040366666666667,7.040366666666667,3,"['frame_0211.jpg', 'frame_0211.jpg', 'frame_0211.jpg']",False
+206,['car'],Movement detected for car: a parking lot with cars parked in it,7.073733333333334,7.073733333333334,2,"['frame_0212.jpg', 'frame_0212.jpg']",False
+207,['car'],Movement detected for car: a parking lot with cars parked in it,7.1071,7.1071,2,"['frame_0213.jpg', 'frame_0213.jpg']",False
+208,['car'],Movement detected for car: a parking lot with cars parked in it,7.140466666666667,7.140466666666667,3,"['frame_0214.jpg', 'frame_0214.jpg', 'frame_0214.jpg']",False
+209,['car'],Movement detected for car: a parking lot with cars parked in it,7.1738333333333335,7.1738333333333335,2,"['frame_0215.jpg', 'frame_0215.jpg']",False
+210,['car'],Movement detected for car: a parking lot with cars parked in it,7.207200000000001,7.207200000000001,1,['frame_0216.jpg'],False
+211,['car'],Movement detected for car: a parking lot with cars parked in it,7.240566666666667,7.240566666666667,1,['frame_0217.jpg'],False
+212,['car'],Movement detected for car: a parking lot with cars parked in it,7.273933333333334,7.273933333333334,1,['frame_0218.jpg'],False
+213,['car'],Movement detected for car: a parking lot with cars parked in it,7.307300000000001,7.307300000000001,1,['frame_0219.jpg'],False
+214,['car'],Movement detected for car: a parking lot with cars parked in it,7.340666666666667,7.340666666666667,1,['frame_0220.jpg'],False
+215,['car'],Movement detected for car: a parking lot with cars parked in it,7.374033333333334,7.374033333333334,1,['frame_0221.jpg'],False
+216,['car'],Movement detected for car: a parking lot with cars parked in it,7.4074,7.4074,2,"['frame_0222.jpg', 'frame_0222.jpg']",False
+217,['car'],Movement detected for car: a parking lot with cars parked in it,7.440766666666667,7.440766666666667,2,"['frame_0223.jpg', 'frame_0223.jpg']",False
+218,['car'],Movement detected for car: a parking lot with cars parked in it,7.474133333333333,7.474133333333333,2,"['frame_0224.jpg', 'frame_0224.jpg']",False
+219,['car'],Movement detected for car: a parking lot with cars parked in it,7.5075,7.5075,4,"['frame_0225.jpg', 'frame_0225.jpg', 'frame_0225.jpg', 'frame_0225.jpg']",False
+220,['car'],Movement detected for car: a parking lot with cars parked in it,7.540866666666667,7.540866666666667,4,"['frame_0226.jpg', 'frame_0226.jpg', 'frame_0226.jpg', 'frame_0226.jpg']",False
+221,['car'],Movement detected for car: a parking lot with cars parked in it,7.574233333333334,7.574233333333334,2,"['frame_0227.jpg', 'frame_0227.jpg']",False
+222,['car'],Movement detected for car: a parking lot with cars parked in it,7.607600000000001,7.607600000000001,2,"['frame_0228.jpg', 'frame_0228.jpg']",False
+223,['car'],Movement detected for car: a parking lot with cars parked in it,7.640966666666667,7.640966666666667,3,"['frame_0229.jpg', 'frame_0229.jpg', 'frame_0229.jpg']",False
+224,['car'],Movement detected for car: a parking lot with cars parked in it,7.674333333333334,7.674333333333334,3,"['frame_0230.jpg', 'frame_0230.jpg', 'frame_0230.jpg']",False
+225,['car'],Movement detected for car: a parking lot with cars parked in it,7.7077,7.7077,3,"['frame_0231.jpg', 'frame_0231.jpg', 'frame_0231.jpg']",False
+226,['car'],Movement detected for car: a parking lot with cars parked in it,7.741066666666667,7.741066666666667,2,"['frame_0232.jpg', 'frame_0232.jpg']",False
+227,['car'],Movement detected for car: a parking lot with cars parked in it,7.774433333333333,7.774433333333333,2,"['frame_0233.jpg', 'frame_0233.jpg']",False
+228,['car'],Movement detected for car: a parking lot with cars parked in it,7.8078,7.8078,2,"['frame_0234.jpg', 'frame_0234.jpg']",False
+229,['car'],Movement detected for car: a parking lot with cars parked in it,7.841166666666667,7.841166666666667,2,"['frame_0235.jpg', 'frame_0235.jpg']",False
+230,['car'],Movement detected for car: a parking lot with cars parked in it,7.874533333333334,7.874533333333334,2,"['frame_0236.jpg', 'frame_0236.jpg']",False
+231,['car'],Movement detected for car: a parking lot with cars parked in it,7.907900000000001,7.907900000000001,2,"['frame_0237.jpg', 'frame_0237.jpg']",False
+232,['car'],Movement detected for car: a parking lot with cars parked in it,7.941266666666667,7.941266666666667,2,"['frame_0238.jpg', 'frame_0238.jpg']",False
+233,['car'],Movement detected for car: a parking lot with cars parked in it,7.974633333333334,7.974633333333334,3,"['frame_0239.jpg', 'frame_0239.jpg', 'frame_0239.jpg']",False
+234,['car'],Movement detected for car: a parking lot with cars parked in it,8.008000000000001,8.008000000000001,3,"['frame_0240.jpg', 'frame_0240.jpg', 'frame_0240.jpg']",False
+235,['car'],Movement detected for car: a parking lot with cars parked in it,8.041366666666667,8.041366666666667,3,"['frame_0241.jpg', 'frame_0241.jpg', 'frame_0241.jpg']",False
+236,['car'],Movement detected for car: a parking lot with cars parked in it,8.074733333333334,8.074733333333334,4,"['frame_0242.jpg', 'frame_0242.jpg', 'frame_0242.jpg', 'frame_0242.jpg']",False
+237,['car'],Movement detected for car: a parking lot with cars parked in it,8.1081,8.1081,4,"['frame_0243.jpg', 'frame_0243.jpg', 'frame_0243.jpg', 'frame_0243.jpg']",False
+238,['car'],Movement detected for car: a parking lot with cars parked in it,8.141466666666666,8.141466666666666,3,"['frame_0244.jpg', 'frame_0244.jpg', 'frame_0244.jpg']",False
+239,['car'],Movement detected for car: a parking lot with cars parked in it,8.174833333333334,8.174833333333334,2,"['frame_0245.jpg', 'frame_0245.jpg']",False
+240,['car'],Movement detected for car: a parking lot with cars parked in it,8.2082,8.2082,3,"['frame_0246.jpg', 'frame_0246.jpg', 'frame_0246.jpg']",False
+241,['car'],Movement detected for car: a parking lot with cars parked in it,8.241566666666667,8.241566666666667,3,"['frame_0247.jpg', 'frame_0247.jpg', 'frame_0247.jpg']",False
+242,['car'],Movement detected for car: a parking lot with cars parked in it,8.274933333333333,8.274933333333333,2,"['frame_0248.jpg', 'frame_0248.jpg']",False
+243,['car'],Movement detected for car: a parking lot with cars parked in it,8.308300000000001,8.308300000000001,4,"['frame_0249.jpg', 'frame_0249.jpg', 'frame_0249.jpg', 'frame_0249.jpg']",False
+244,['car'],Movement detected for car: a parking lot with cars parked in it,8.341666666666667,8.341666666666667,4,"['frame_0250.jpg', 'frame_0250.jpg', 'frame_0250.jpg', 'frame_0250.jpg']",False
+245,['car'],Movement detected for car: a parking lot with cars parked in it,8.375033333333334,8.375033333333334,5,"['frame_0251.jpg', 'frame_0251.jpg', 'frame_0251.jpg', 'frame_0251.jpg', 'frame_0251.jpg']",False
+246,['car'],Movement detected for car: a parking lot with cars parked in it,8.4084,8.4084,3,"['frame_0252.jpg', 'frame_0252.jpg', 'frame_0252.jpg']",False
+247,['car'],Movement detected for car: a parking lot with cars parked in it,8.441766666666666,8.441766666666666,2,"['frame_0253.jpg', 'frame_0253.jpg']",False
+248,['car'],Movement detected for car: a parking lot with cars parked in it,8.475133333333334,8.475133333333334,3,"['frame_0254.jpg', 'frame_0254.jpg', 'frame_0254.jpg']",False
+249,['car'],Movement detected for car: a parking lot with cars parked in it,8.5085,8.5085,3,"['frame_0255.jpg', 'frame_0255.jpg', 'frame_0255.jpg']",False
+250,['car'],Movement detected for car: a parking lot with cars parked in it,8.541866666666667,8.541866666666667,2,"['frame_0256.jpg', 'frame_0256.jpg']",False
+251,['car'],Movement detected for car: a parking lot with cars parked in it,8.575233333333333,8.575233333333333,3,"['frame_0257.jpg', 'frame_0257.jpg', 'frame_0257.jpg']",False
+252,['car'],Movement detected for car: a parking lot with cars parked in it,8.608600000000001,8.608600000000001,3,"['frame_0258.jpg', 'frame_0258.jpg', 'frame_0258.jpg']",False
+253,['car'],Movement detected for car: a parking lot with cars parked in it,8.641966666666667,8.641966666666667,3,"['frame_0259.jpg', 'frame_0259.jpg', 'frame_0259.jpg']",False
+254,['car'],Movement detected for car: a parking lot with cars parked in it,8.675333333333334,8.675333333333334,3,"['frame_0260.jpg', 'frame_0260.jpg', 'frame_0260.jpg']",False
+255,['car'],Movement detected for car: a parking lot with cars parked in it,8.7087,8.7087,3,"['frame_0261.jpg', 'frame_0261.jpg', 'frame_0261.jpg']",False
+256,['car'],Movement detected for car: a parking lot with cars parked in it,8.742066666666666,8.742066666666666,2,"['frame_0262.jpg', 'frame_0262.jpg']",False
+257,['car'],Movement detected for car: a parking lot with cars parked in it,8.775433333333334,8.775433333333334,1,['frame_0263.jpg'],False
+258,['car'],Movement detected for car: a parking lot with cars parked in it,8.8088,8.8088,1,['frame_0264.jpg'],False
+259,['car'],Movement detected for car: a parking lot with cars parked in it,8.842166666666667,8.842166666666667,1,['frame_0265.jpg'],False
+260,['car'],Movement detected for car: a parking lot with cars parked in it,8.875533333333333,8.875533333333333,2,"['frame_0266.jpg', 'frame_0266.jpg']",False
+261,['car'],Movement detected for car: a parking lot with cars parked in it,8.908900000000001,8.908900000000001,2,"['frame_0267.jpg', 'frame_0267.jpg']",False
+262,['car'],Movement detected for car: a parking lot with cars parked in it,8.942266666666667,8.942266666666667,3,"['frame_0268.jpg', 'frame_0268.jpg', 'frame_0268.jpg']",False
+263,['car'],Movement detected for car: a parking lot with cars parked in it,8.975633333333334,8.975633333333334,3,"['frame_0269.jpg', 'frame_0269.jpg', 'frame_0269.jpg']",False
+264,['car'],Movement detected for car: a parking lot with cars parked in it,9.009,9.009,2,"['frame_0270.jpg', 'frame_0270.jpg']",False
+265,['car'],Movement detected for car: a parking lot with cars parked in it,9.042366666666666,9.042366666666666,2,"['frame_0271.jpg', 'frame_0271.jpg']",False
+266,['car'],Movement detected for car: a parking lot with cars parked in it,9.075733333333334,9.075733333333334,2,"['frame_0272.jpg', 'frame_0272.jpg']",False
+267,['car'],Movement detected for car: a parking lot with cars parked in it,9.1091,9.1091,2,"['frame_0273.jpg', 'frame_0273.jpg']",False
+268,['car'],Movement detected for car: a parking lot with cars parked in it,9.142466666666667,9.142466666666667,2,"['frame_0274.jpg', 'frame_0274.jpg']",False
+269,['car'],Movement detected for car: a parking lot with cars parked in it,9.175833333333332,9.175833333333332,2,"['frame_0275.jpg', 'frame_0275.jpg']",False
+270,['car'],Movement detected for car: a parking lot with cars parked in it,9.2092,9.2092,2,"['frame_0276.jpg', 'frame_0276.jpg']",False
+271,['car'],Movement detected for car: a parking lot with cars parked in it,9.242566666666669,9.242566666666669,2,"['frame_0277.jpg', 'frame_0277.jpg']",False
+272,['car'],Movement detected for car: a parking lot with cars parked in it,9.275933333333334,9.275933333333334,2,"['frame_0278.jpg', 'frame_0278.jpg']",False
+273,['car'],Movement detected for car: a parking lot with cars parked in it,9.3093,9.3093,2,"['frame_0279.jpg', 'frame_0279.jpg']",False
+274,['car'],Movement detected for car: a parking lot with cars parked in it,9.342666666666666,9.342666666666666,2,"['frame_0280.jpg', 'frame_0280.jpg']",False
+275,['car'],Movement detected for car: a parking lot with cars parked in it,9.376033333333334,9.376033333333334,2,"['frame_0281.jpg', 'frame_0281.jpg']",False
+276,['car'],Movement detected for car: a parking lot with cars parked in it,9.4094,9.4094,2,"['frame_0282.jpg', 'frame_0282.jpg']",False
+277,['car'],Movement detected for car: a parking lot with cars parked in it,9.442766666666667,9.442766666666667,2,"['frame_0283.jpg', 'frame_0283.jpg']",False
+278,['car'],Movement detected for car: a parking lot with cars parked in it,9.476133333333332,9.476133333333332,1,['frame_0284.jpg'],False
+279,['car'],Movement detected for car: a parking lot with cars parked in it,9.5095,9.5095,2,"['frame_0285.jpg', 'frame_0285.jpg']",False
+280,['car'],Movement detected for car: a parking lot with cars parked in it,9.542866666666669,9.542866666666669,2,"['frame_0286.jpg', 'frame_0286.jpg']",False
+281,['car'],Movement detected for car: a parking lot with cars parked in it,9.576233333333333,9.576233333333333,2,"['frame_0287.jpg', 'frame_0287.jpg']",False
+282,['car'],Movement detected for car: a parking lot with cars parked in it,9.6096,9.6096,2,"['frame_0288.jpg', 'frame_0288.jpg']",False
+283,['car'],Movement detected for car: a parking lot with cars parked in it,9.642966666666668,9.642966666666668,2,"['frame_0289.jpg', 'frame_0289.jpg']",False
+284,['car'],Movement detected for car: a parking lot with cars parked in it,9.676333333333334,9.676333333333334,2,"['frame_0290.jpg', 'frame_0290.jpg']",False
+285,['car'],Movement detected for car: a parking lot with cars parked in it,9.7097,9.7097,2,"['frame_0291.jpg', 'frame_0291.jpg']",False
+286,['car'],Movement detected for car: a parking lot with cars parked in it,9.743066666666667,9.743066666666667,2,"['frame_0292.jpg', 'frame_0292.jpg']",False
+287,['car'],Movement detected for car: a parking lot with cars parked in it,9.776433333333332,9.776433333333332,2,"['frame_0293.jpg', 'frame_0293.jpg']",False
+288,['car'],Movement detected for car: a parking lot with cars parked in it,9.8098,9.8098,3,"['frame_0294.jpg', 'frame_0294.jpg', 'frame_0294.jpg']",False
+289,['car'],Movement detected for car: a parking lot with cars parked in it,9.843166666666669,9.843166666666669,2,"['frame_0295.jpg', 'frame_0295.jpg']",False
+290,['car'],Movement detected for car: a parking lot with cars parked in it,9.876533333333334,9.876533333333334,1,['frame_0296.jpg'],False
+291,['car'],Movement detected for car: a parking lot with cars parked in it,9.9099,9.9099,1,['frame_0297.jpg'],False
+292,['car'],Movement detected for car: a parking lot with cars parked in it,9.943266666666668,9.943266666666668,1,['frame_0298.jpg'],False
+293,['car'],Movement detected for car: a parking lot with cars parked in it,9.976633333333334,9.976633333333334,2,"['frame_0299.jpg', 'frame_0299.jpg']",False
+294,['car'],Movement detected for car: a parking lot with cars parked in it,10.01,10.01,2,"['frame_0300.jpg', 'frame_0300.jpg']",False
+295,['car'],Movement detected for car: a parking lot with cars parked in it,10.043366666666667,10.043366666666667,2,"['frame_0301.jpg', 'frame_0301.jpg']",False
+296,['car'],Movement detected for car: a parking lot with cars parked in it,10.076733333333332,10.076733333333332,3,"['frame_0302.jpg', 'frame_0302.jpg', 'frame_0302.jpg']",False
+297,['car'],Movement detected for car: a parking lot with cars parked in it,10.1101,10.1101,3,"['frame_0303.jpg', 'frame_0303.jpg', 'frame_0303.jpg']",False
+298,['car'],Movement detected for car: a parking lot with cars parked in it,10.143466666666669,10.143466666666669,3,"['frame_0304.jpg', 'frame_0304.jpg', 'frame_0304.jpg']",False
+299,['car'],Movement detected for car: a parking lot with cars parked in it,10.176833333333336,10.176833333333336,2,"['frame_0305.jpg', 'frame_0305.jpg']",False
+300,['car'],Movement detected for car: a parking lot with cars parked in it,10.2102,10.2102,4,"['frame_0306.jpg', 'frame_0306.jpg', 'frame_0306.jpg', 'frame_0306.jpg']",False
+301,['car'],Movement detected for car: a parking lot with cars parked in it,10.243566666666668,10.243566666666668,3,"['frame_0307.jpg', 'frame_0307.jpg', 'frame_0307.jpg']",False
+302,['car'],Movement detected for car: a parking lot with cars parked in it,10.276933333333334,10.276933333333334,4,"['frame_0308.jpg', 'frame_0308.jpg', 'frame_0308.jpg', 'frame_0308.jpg']",False
+303,['car'],Movement detected for car: a parking lot with cars parked in it,10.3103,10.3103,3,"['frame_0309.jpg', 'frame_0309.jpg', 'frame_0309.jpg']",False
+304,['car'],Movement detected for car: a parking lot with cars parked in it,10.343666666666667,10.343666666666667,4,"['frame_0310.jpg', 'frame_0310.jpg', 'frame_0310.jpg', 'frame_0310.jpg']",False
+305,['car'],Movement detected for car: a parking lot with cars parked in it,10.377033333333332,10.377033333333332,4,"['frame_0311.jpg', 'frame_0311.jpg', 'frame_0311.jpg', 'frame_0311.jpg']",False
+306,['car'],Movement detected for car: a parking lot with cars parked in it,10.4104,10.4104,4,"['frame_0312.jpg', 'frame_0312.jpg', 'frame_0312.jpg', 'frame_0312.jpg']",False
+307,['car'],Movement detected for car: a parking lot with cars parked in it,10.443766666666669,10.443766666666669,4,"['frame_0313.jpg', 'frame_0313.jpg', 'frame_0313.jpg', 'frame_0313.jpg']",False
+308,['car'],Movement detected for car: a parking lot with cars parked in it,10.477133333333336,10.477133333333336,4,"['frame_0314.jpg', 'frame_0314.jpg', 'frame_0314.jpg', 'frame_0314.jpg']",False
+309,['car'],Movement detected for car: a parking lot with cars parked in it,10.5105,10.5105,4,"['frame_0315.jpg', 'frame_0315.jpg', 'frame_0315.jpg', 'frame_0315.jpg']",False
+310,['car'],Movement detected for car: a parking lot with cars parked in it,10.543866666666668,10.543866666666668,3,"['frame_0316.jpg', 'frame_0316.jpg', 'frame_0316.jpg']",False
+311,['car'],Movement detected for car: a parking lot with cars parked in it,10.577233333333334,10.577233333333334,4,"['frame_0317.jpg', 'frame_0317.jpg', 'frame_0317.jpg', 'frame_0317.jpg']",False
+312,['car'],Movement detected for car: a parking lot with cars parked in it,10.6106,10.6106,4,"['frame_0318.jpg', 'frame_0318.jpg', 'frame_0318.jpg', 'frame_0318.jpg']",False
+313,['car'],Movement detected for car: a parking lot with cars parked in it,10.643966666666667,10.643966666666667,4,"['frame_0319.jpg', 'frame_0319.jpg', 'frame_0319.jpg', 'frame_0319.jpg']",False
+314,['car'],Movement detected for car: a parking lot with cars parked in it,10.677333333333332,10.677333333333332,4,"['frame_0320.jpg', 'frame_0320.jpg', 'frame_0320.jpg', 'frame_0320.jpg']",False
+315,['car'],Movement detected for car: a parking lot with cars parked in it,10.7107,10.7107,5,"['frame_0321.jpg', 'frame_0321.jpg', 'frame_0321.jpg', 'frame_0321.jpg', 'frame_0321.jpg']",False
+316,['car'],Movement detected for car: a parking lot with cars parked in it,10.744066666666669,10.744066666666669,4,"['frame_0322.jpg', 'frame_0322.jpg', 'frame_0322.jpg', 'frame_0322.jpg']",False
+317,['car'],Movement detected for car: a parking lot with cars parked in it,10.777433333333336,10.777433333333336,5,"['frame_0323.jpg', 'frame_0323.jpg', 'frame_0323.jpg', 'frame_0323.jpg', 'frame_0323.jpg']",False
+318,['car'],Movement detected for car: a parking lot with cars parked in it,10.8108,10.8108,4,"['frame_0324.jpg', 'frame_0324.jpg', 'frame_0324.jpg', 'frame_0324.jpg']",False
+319,['car'],Movement detected for car: a parking lot with cars parked in it,10.844166666666668,10.844166666666668,3,"['frame_0325.jpg', 'frame_0325.jpg', 'frame_0325.jpg']",False
+320,['car'],Movement detected for car: a parking lot with cars parked in it,10.877533333333334,10.877533333333334,3,"['frame_0326.jpg', 'frame_0326.jpg', 'frame_0326.jpg']",False
+321,['car'],Movement detected for car: a parking lot with cars parked in it,10.9109,10.9109,3,"['frame_0327.jpg', 'frame_0327.jpg', 'frame_0327.jpg']",False
+322,['car'],Movement detected for car: a parking lot with cars parked in it,10.944266666666667,10.944266666666667,2,"['frame_0328.jpg', 'frame_0328.jpg']",False
+323,['car'],Movement detected for car: a parking lot with cars parked in it,10.977633333333332,10.977633333333332,2,"['frame_0329.jpg', 'frame_0329.jpg']",False
+324,['car'],Movement detected for car: a parking lot with cars parked in it,11.011,11.011,2,"['frame_0330.jpg', 'frame_0330.jpg']",False
+325,['car'],Movement detected for car: a parking lot with cars parked in it,11.044366666666669,11.044366666666669,5,"['frame_0331.jpg', 'frame_0331.jpg', 'frame_0331.jpg', 'frame_0331.jpg', 'frame_0331.jpg']",False
+326,['car'],Movement detected for car: a parking lot with cars parked in it,11.077733333333336,11.077733333333336,5,"['frame_0332.jpg', 'frame_0332.jpg', 'frame_0332.jpg', 'frame_0332.jpg', 'frame_0332.jpg']",False
+327,['car'],Movement detected for car: a parking lot with cars parked in it,11.1111,11.1111,5,"['frame_0333.jpg', 'frame_0333.jpg', 'frame_0333.jpg', 'frame_0333.jpg', 'frame_0333.jpg']",False
+328,['car'],Movement detected for car: a parking lot with cars parked in it,11.14446666666667,11.14446666666667,4,"['frame_0334.jpg', 'frame_0334.jpg', 'frame_0334.jpg', 'frame_0334.jpg']",False
+329,['car'],Movement detected for car: a parking lot with cars parked in it,11.177833333333334,11.177833333333334,4,"['frame_0335.jpg', 'frame_0335.jpg', 'frame_0335.jpg', 'frame_0335.jpg']",False
+330,['car'],Movement detected for car: a parking lot with cars parked in it,11.211200000000002,11.211200000000002,4,"['frame_0336.jpg', 'frame_0336.jpg', 'frame_0336.jpg', 'frame_0336.jpg']",False
+331,['car'],Movement detected for car: a parking lot with cars parked in it,11.244566666666667,11.244566666666667,5,"['frame_0337.jpg', 'frame_0337.jpg', 'frame_0337.jpg', 'frame_0337.jpg', 'frame_0337.jpg']",False
+332,['car'],Movement detected for car: a parking lot with cars parked in it,11.277933333333332,11.277933333333332,5,"['frame_0338.jpg', 'frame_0338.jpg', 'frame_0338.jpg', 'frame_0338.jpg', 'frame_0338.jpg']",False
+333,['car'],Movement detected for car: a parking lot with cars parked in it,11.3113,11.3113,5,"['frame_0339.jpg', 'frame_0339.jpg', 'frame_0339.jpg', 'frame_0339.jpg', 'frame_0339.jpg']",False
+334,['car'],Movement detected for car: a parking lot with cars parked in it,11.344666666666669,11.344666666666669,5,"['frame_0340.jpg', 'frame_0340.jpg', 'frame_0340.jpg', 'frame_0340.jpg', 'frame_0340.jpg']",False
+335,['car'],Movement detected for car: a parking lot with cars parked in it,11.378033333333336,11.378033333333336,5,"['frame_0341.jpg', 'frame_0341.jpg', 'frame_0341.jpg', 'frame_0341.jpg', 'frame_0341.jpg']",False
+336,['car'],Movement detected for car: a parking lot with cars parked in it,11.4114,11.4114,5,"['frame_0342.jpg', 'frame_0342.jpg', 'frame_0342.jpg', 'frame_0342.jpg', 'frame_0342.jpg']",False
+337,['car'],Movement detected for car: a parking lot with cars parked in it,11.444766666666668,11.444766666666668,6,"['frame_0343.jpg', 'frame_0343.jpg', 'frame_0343.jpg', 'frame_0343.jpg', 'frame_0343.jpg', 'frame_0343.jpg']",False
+338,['car'],Movement detected for car: a parking lot with cars parked in it,11.478133333333334,11.478133333333334,4,"['frame_0344.jpg', 'frame_0344.jpg', 'frame_0344.jpg', 'frame_0344.jpg']",False
+339,['car'],Movement detected for car: a parking lot with cars parked in it,11.5115,11.5115,5,"['frame_0345.jpg', 'frame_0345.jpg', 'frame_0345.jpg', 'frame_0345.jpg', 'frame_0345.jpg']",False
+340,['car'],Movement detected for car: a parking lot with cars parked in it,11.544866666666667,11.544866666666667,5,"['frame_0346.jpg', 'frame_0346.jpg', 'frame_0346.jpg', 'frame_0346.jpg', 'frame_0346.jpg']",False
+341,['car'],Movement detected for car: a parking lot with cars parked in it,11.578233333333332,11.578233333333332,5,"['frame_0347.jpg', 'frame_0347.jpg', 'frame_0347.jpg', 'frame_0347.jpg', 'frame_0347.jpg']",False
+342,['car'],Movement detected for car: a parking lot with cars parked in it,11.6116,11.6116,5,"['frame_0348.jpg', 'frame_0348.jpg', 'frame_0348.jpg', 'frame_0348.jpg', 'frame_0348.jpg']",False
+343,['car'],Movement detected for car: a parking lot with cars parked in it,11.644966666666669,11.644966666666669,5,"['frame_0349.jpg', 'frame_0349.jpg', 'frame_0349.jpg', 'frame_0349.jpg', 'frame_0349.jpg']",False
+344,['car'],Movement detected for car: a parking lot with cars parked in it,11.678333333333336,11.678333333333336,5,"['frame_0350.jpg', 'frame_0350.jpg', 'frame_0350.jpg', 'frame_0350.jpg', 'frame_0350.jpg']",False
+345,['car'],Movement detected for car: a parking lot with cars parked in it,11.7117,11.7117,5,"['frame_0351.jpg', 'frame_0351.jpg', 'frame_0351.jpg', 'frame_0351.jpg', 'frame_0351.jpg']",False
+346,['car'],Movement detected for car: a parking lot with cars parked in it,11.745066666666668,11.745066666666668,5,"['frame_0352.jpg', 'frame_0352.jpg', 'frame_0352.jpg', 'frame_0352.jpg', 'frame_0352.jpg']",False
+347,['car'],Movement detected for car: a parking lot with cars parked in it,11.778433333333334,11.778433333333334,5,"['frame_0353.jpg', 'frame_0353.jpg', 'frame_0353.jpg', 'frame_0353.jpg', 'frame_0353.jpg']",False
+348,['car'],Movement detected for car: a parking lot with cars parked in it,11.8118,11.8118,5,"['frame_0354.jpg', 'frame_0354.jpg', 'frame_0354.jpg', 'frame_0354.jpg', 'frame_0354.jpg']",False
+349,['car'],Movement detected for car: a parking lot with cars parked in it,11.845166666666668,11.845166666666668,4,"['frame_0355.jpg', 'frame_0355.jpg', 'frame_0355.jpg', 'frame_0355.jpg']",False
+350,['car'],Movement detected for car: a parking lot with cars parked in it,11.878533333333332,11.878533333333332,4,"['frame_0356.jpg', 'frame_0356.jpg', 'frame_0356.jpg', 'frame_0356.jpg']",False
+351,['car'],Movement detected for car: a parking lot with cars parked in it,11.9119,11.9119,5,"['frame_0357.jpg', 'frame_0357.jpg', 'frame_0357.jpg', 'frame_0357.jpg', 'frame_0357.jpg']",False
+352,['car'],Movement detected for car: a parking lot with cars parked in it,11.945266666666669,11.945266666666669,5,"['frame_0358.jpg', 'frame_0358.jpg', 'frame_0358.jpg', 'frame_0358.jpg', 'frame_0358.jpg']",False
+353,['car'],Movement detected for car: a parking lot with cars parked in it,11.978633333333336,11.978633333333336,5,"['frame_0359.jpg', 'frame_0359.jpg', 'frame_0359.jpg', 'frame_0359.jpg', 'frame_0359.jpg']",False
+354,['car'],Movement detected for car: a parking lot with cars parked in it,12.012,12.012,5,"['frame_0360.jpg', 'frame_0360.jpg', 'frame_0360.jpg', 'frame_0360.jpg', 'frame_0360.jpg']",False
+355,['car'],Movement detected for car: a parking lot with cars parked in it,12.045366666666668,12.045366666666668,4,"['frame_0361.jpg', 'frame_0361.jpg', 'frame_0361.jpg', 'frame_0361.jpg']",False
+356,['car'],Movement detected for car: a parking lot with cars parked in it,12.078733333333334,12.078733333333334,5,"['frame_0362.jpg', 'frame_0362.jpg', 'frame_0362.jpg', 'frame_0362.jpg', 'frame_0362.jpg']",False
+357,['car'],Movement detected for car: a parking lot with cars parked in it,12.1121,12.1121,5,"['frame_0363.jpg', 'frame_0363.jpg', 'frame_0363.jpg', 'frame_0363.jpg', 'frame_0363.jpg']",False
+358,['car'],Movement detected for car: a parking lot with cars parked in it,12.145466666666668,12.145466666666668,6,"['frame_0364.jpg', 'frame_0364.jpg', 'frame_0364.jpg', 'frame_0364.jpg', 'frame_0364.jpg', 'frame_0364.jpg']",False
+359,['car'],Movement detected for car: a parking lot with cars parked in it,12.178833333333332,12.178833333333332,4,"['frame_0365.jpg', 'frame_0365.jpg', 'frame_0365.jpg', 'frame_0365.jpg']",False
+360,['car'],Movement detected for car: a parking lot with cars parked in it,12.2122,12.2122,3,"['frame_0366.jpg', 'frame_0366.jpg', 'frame_0366.jpg']",False
+361,['car'],Movement detected for car: a parking lot with cars parked in it,12.245566666666669,12.245566666666669,6,"['frame_0367.jpg', 'frame_0367.jpg', 'frame_0367.jpg', 'frame_0367.jpg', 'frame_0367.jpg', 'frame_0367.jpg']",False
+362,['car'],Movement detected for car: a parking lot with cars parked in it,12.278933333333336,12.278933333333336,5,"['frame_0368.jpg', 'frame_0368.jpg', 'frame_0368.jpg', 'frame_0368.jpg', 'frame_0368.jpg']",False
+363,['car'],Movement detected for car: a parking lot with cars parked in it,12.3123,12.3123,3,"['frame_0369.jpg', 'frame_0369.jpg', 'frame_0369.jpg']",False
+364,['car'],Movement detected for car: a parking lot with cars parked in it,12.345666666666668,12.345666666666668,4,"['frame_0370.jpg', 'frame_0370.jpg', 'frame_0370.jpg', 'frame_0370.jpg']",False
+365,"['bench', 'car']","Movement detected for bench, car: a parking lot with cars parked in it",12.379033333333334,12.379033333333334,6,"['frame_0371.jpg', 'frame_0371.jpg', 'frame_0371.jpg', 'frame_0371.jpg', 'frame_0371.jpg', 'frame_0371.jpg']",True
+366,['car'],Movement detected for car: a parking lot with cars parked in it,12.4124,12.4124,4,"['frame_0372.jpg', 'frame_0372.jpg', 'frame_0372.jpg', 'frame_0372.jpg']",False
+367,['car'],Movement detected for car: a parking lot with cars parked in it,12.445766666666668,12.445766666666668,3,"['frame_0373.jpg', 'frame_0373.jpg', 'frame_0373.jpg']",False
+368,['car'],Movement detected for car: a parking lot with cars parked in it,12.479133333333332,12.479133333333332,4,"['frame_0374.jpg', 'frame_0374.jpg', 'frame_0374.jpg', 'frame_0374.jpg']",False
+369,['car'],Movement detected for car: a parking lot with cars parked in it,12.5125,12.5125,4,"['frame_0375.jpg', 'frame_0375.jpg', 'frame_0375.jpg', 'frame_0375.jpg']",False
+370,['car'],Movement detected for car: a parking lot with cars parked in it,12.545866666666669,12.545866666666669,4,"['frame_0376.jpg', 'frame_0376.jpg', 'frame_0376.jpg', 'frame_0376.jpg']",False
+371,['car'],Movement detected for car: a parking lot with cars parked in it,12.579233333333336,12.579233333333336,4,"['frame_0377.jpg', 'frame_0377.jpg', 'frame_0377.jpg', 'frame_0377.jpg']",False
+372,['car'],Movement detected for car: a parking lot with cars parked in it,12.6126,12.6126,4,"['frame_0378.jpg', 'frame_0378.jpg', 'frame_0378.jpg', 'frame_0378.jpg']",False
+373,['car'],Movement detected for car: a parking lot with cars parked in it,12.645966666666668,12.645966666666668,4,"['frame_0379.jpg', 'frame_0379.jpg', 'frame_0379.jpg', 'frame_0379.jpg']",False
+374,['car'],Movement detected for car: a parking lot with cars parked in it,12.679333333333334,12.679333333333334,3,"['frame_0380.jpg', 'frame_0380.jpg', 'frame_0380.jpg']",False
+375,['car'],Movement detected for car: a parking lot with cars parked in it,12.7127,12.7127,1,['frame_0381.jpg'],False
+376,"['bench', 'car']","Movement detected for bench, car: a parking lot with cars parked in it",12.746066666666668,12.746066666666668,2,"['frame_0382.jpg', 'frame_0382.jpg']",True
+377,['car'],Movement detected for car: a parking lot with cars parked in it,12.779433333333332,12.779433333333332,2,"['frame_0383.jpg', 'frame_0383.jpg']",False
+378,['car'],Movement detected for car: a parking lot with cars parked in it,12.8128,12.8128,2,"['frame_0384.jpg', 'frame_0384.jpg']",False
+379,['car'],Movement detected for car: a parking lot with cars parked in it,12.846166666666663,12.846166666666663,2,"['frame_0385.jpg', 'frame_0385.jpg']",False
+380,['car'],Movement detected for car: a parking lot with cars parked in it,12.879533333333336,12.879533333333336,3,"['frame_0386.jpg', 'frame_0386.jpg', 'frame_0386.jpg']",False
+381,['car'],Movement detected for car: a parking lot with cars parked in it,12.9129,12.9129,4,"['frame_0387.jpg', 'frame_0387.jpg', 'frame_0387.jpg', 'frame_0387.jpg']",False
+382,['car'],Movement detected for car: a parking lot with cars parked in it,12.946266666666668,12.946266666666668,3,"['frame_0388.jpg', 'frame_0388.jpg', 'frame_0388.jpg']",False
+383,"['bench', 'car']","Movement detected for bench, car: a parking lot with cars parked in it",12.979633333333334,12.979633333333334,6,"['frame_0389.jpg', 'frame_0389.jpg', 'frame_0389.jpg', 'frame_0389.jpg', 'frame_0389.jpg', 'frame_0389.jpg']",True
+384,['car'],Movement detected for car: a parking lot with cars parked in it,13.013,13.013,5,"['frame_0390.jpg', 'frame_0390.jpg', 'frame_0390.jpg', 'frame_0390.jpg', 'frame_0390.jpg']",False
+385,['car'],Movement detected for car: a parking lot with cars parked in it,13.079733333333332,13.079733333333332,3,"['frame_0392.jpg', 'frame_0392.jpg', 'frame_0392.jpg']",False
+386,['car'],Movement detected for car: a parking lot with cars parked in it,13.1131,13.1131,3,"['frame_0393.jpg', 'frame_0393.jpg', 'frame_0393.jpg']",False
+387,['car'],Movement detected for car: a parking lot with cars parked in it,13.146466666666669,13.146466666666669,3,"['frame_0394.jpg', 'frame_0394.jpg', 'frame_0394.jpg']",False
+388,['car'],Movement detected for car: a parking lot with cars parked in it,13.179833333333336,13.179833333333336,3,"['frame_0395.jpg', 'frame_0395.jpg', 'frame_0395.jpg']",False
+389,['car'],Movement detected for car: a parking lot with cars parked in it,13.2132,13.2132,2,"['frame_0396.jpg', 'frame_0396.jpg']",False
+390,['car'],Movement detected for car: a parking lot with cars parked in it,13.246566666666668,13.246566666666668,2,"['frame_0397.jpg', 'frame_0397.jpg']",False
+391,['car'],Movement detected for car: a parking lot with cars parked in it,13.279933333333334,13.279933333333334,3,"['frame_0398.jpg', 'frame_0398.jpg', 'frame_0398.jpg']",False
+392,['car'],Movement detected for car: a parking lot with cars parked in it,13.3133,13.3133,3,"['frame_0399.jpg', 'frame_0399.jpg', 'frame_0399.jpg']",False
+393,"['bench', 'car']","Movement detected for bench, car: a parking lot with cars parked in it",13.346666666666668,13.346666666666668,4,"['frame_0400.jpg', 'frame_0400.jpg', 'frame_0400.jpg', 'frame_0400.jpg']",True
+394,['car'],Movement detected for car: a parking lot with cars parked in it,13.380033333333332,13.380033333333332,3,"['frame_0401.jpg', 'frame_0401.jpg', 'frame_0401.jpg']",False
+395,['car'],Movement detected for car: a parking lot with cars parked in it,13.4134,13.4134,3,"['frame_0402.jpg', 'frame_0402.jpg', 'frame_0402.jpg']",False
+396,['car'],Movement detected for car: a parking lot with cars parked in it,13.446766666666669,13.446766666666669,2,"['frame_0403.jpg', 'frame_0403.jpg']",False
+397,"['bench', 'car']","Movement detected for bench, car: a parking lot with cars parked in it",13.480133333333336,13.480133333333336,4,"['frame_0404.jpg', 'frame_0404.jpg', 'frame_0404.jpg', 'frame_0404.jpg']",True
+398,['car'],Movement detected for car: a parking lot with cars parked in it,13.5135,13.5135,2,"['frame_0405.jpg', 'frame_0405.jpg']",False
+399,['car'],Movement detected for car: a parking lot with cars parked in it,13.546866666666668,13.546866666666668,2,"['frame_0406.jpg', 'frame_0406.jpg']",False
+400,['car'],Movement detected for car: a parking lot with cars parked in it,13.580233333333334,13.580233333333334,2,"['frame_0407.jpg', 'frame_0407.jpg']",False
+401,"['bench', 'car']","Movement detected for bench, car: a parking lot with cars parked in it",13.6136,13.6136,2,"['frame_0408.jpg', 'frame_0408.jpg']",True
+402,['car'],Movement detected for car: a parking lot with cars parked in it,13.646966666666668,13.646966666666668,3,"['frame_0409.jpg', 'frame_0409.jpg', 'frame_0409.jpg']",False
+403,['car'],Movement detected for car: a parking lot with cars parked in it,13.680333333333332,13.680333333333332,2,"['frame_0410.jpg', 'frame_0410.jpg']",False
+404,['car'],Movement detected for car: a parking lot with cars parked in it,13.7137,13.7137,2,"['frame_0411.jpg', 'frame_0411.jpg']",False
+405,['car'],Movement detected for car: a parking lot with cars parked in it,13.747066666666669,13.747066666666669,1,['frame_0412.jpg'],False
+406,['car'],Movement detected for car: a parking lot with cars parked in it,13.780433333333336,13.780433333333336,3,"['frame_0413.jpg', 'frame_0413.jpg', 'frame_0413.jpg']",False
+407,['car'],Movement detected for car: a parking lot with cars parked in it,13.8138,13.8138,2,"['frame_0414.jpg', 'frame_0414.jpg']",False
+408,['car'],Movement detected for car: a parking lot with cars parked in it,13.847166666666668,13.847166666666668,2,"['frame_0415.jpg', 'frame_0415.jpg']",False
+409,"['bench', 'car']","Movement detected for bench, car: a parking lot with cars parked in it",13.880533333333334,13.880533333333334,6,"['frame_0416.jpg', 'frame_0416.jpg', 'frame_0416.jpg', 'frame_0416.jpg', 'frame_0416.jpg', 'frame_0416.jpg']",True
+410,['car'],Movement detected for car: a parking lot with cars parked in it,13.9139,13.9139,4,"['frame_0417.jpg', 'frame_0417.jpg', 'frame_0417.jpg', 'frame_0417.jpg']",False
+411,['car'],Movement detected for car: a parking lot with cars parked in it,13.947266666666668,13.947266666666668,3,"['frame_0418.jpg', 'frame_0418.jpg', 'frame_0418.jpg']",False
+412,['car'],Movement detected for car: a parking lot with cars parked in it,13.980633333333332,13.980633333333332,3,"['frame_0419.jpg', 'frame_0419.jpg', 'frame_0419.jpg']",False
+413,['car'],Movement detected for car: a parking lot with cars parked in it,14.014,14.014,4,"['frame_0420.jpg', 'frame_0420.jpg', 'frame_0420.jpg', 'frame_0420.jpg']",False
+414,['car'],Movement detected for car: a parking lot with cars parked in it,14.047366666666669,14.047366666666669,4,"['frame_0421.jpg', 'frame_0421.jpg', 'frame_0421.jpg', 'frame_0421.jpg']",False
+415,['car'],Movement detected for car: a parking lot with cars parked in it,14.080733333333336,14.080733333333336,4,"['frame_0422.jpg', 'frame_0422.jpg', 'frame_0422.jpg', 'frame_0422.jpg']",False
+416,['car'],Movement detected for car: a parking lot with cars parked in it,14.1141,14.1141,4,"['frame_0423.jpg', 'frame_0423.jpg', 'frame_0423.jpg', 'frame_0423.jpg']",False
+417,['car'],Movement detected for car: a parking lot with cars parked in it,14.147466666666668,14.147466666666668,5,"['frame_0424.jpg', 'frame_0424.jpg', 'frame_0424.jpg', 'frame_0424.jpg', 'frame_0424.jpg']",False
+418,['car'],Movement detected for car: a parking lot with cars parked in it,14.180833333333334,14.180833333333334,5,"['frame_0425.jpg', 'frame_0425.jpg', 'frame_0425.jpg', 'frame_0425.jpg', 'frame_0425.jpg']",False
+419,['car'],Movement detected for car: a parking lot with cars parked in it,14.2142,14.2142,5,"['frame_0426.jpg', 'frame_0426.jpg', 'frame_0426.jpg', 'frame_0426.jpg', 'frame_0426.jpg']",False
+420,['car'],Movement detected for car: a parking lot with cars parked in it,14.247566666666668,14.247566666666668,5,"['frame_0427.jpg', 'frame_0427.jpg', 'frame_0427.jpg', 'frame_0427.jpg', 'frame_0427.jpg']",False
+421,['car'],Movement detected for car: a parking lot with cars parked in it,14.280933333333332,14.280933333333332,4,"['frame_0428.jpg', 'frame_0428.jpg', 'frame_0428.jpg', 'frame_0428.jpg']",False
+422,['car'],Movement detected for car: a parking lot with cars parked in it,14.3143,14.3143,4,"['frame_0429.jpg', 'frame_0429.jpg', 'frame_0429.jpg', 'frame_0429.jpg']",False
+423,['car'],Movement detected for car: a parking lot with cars parked in it,14.347666666666669,14.347666666666669,4,"['frame_0430.jpg', 'frame_0430.jpg', 'frame_0430.jpg', 'frame_0430.jpg']",False
+424,['car'],Movement detected for car: a parking lot with cars parked in it,14.381033333333336,14.381033333333336,3,"['frame_0431.jpg', 'frame_0431.jpg', 'frame_0431.jpg']",False
+425,['car'],Movement detected for car: a parking lot with cars parked in it,14.414400000000002,14.414400000000002,4,"['frame_0432.jpg', 'frame_0432.jpg', 'frame_0432.jpg', 'frame_0432.jpg']",False
+426,['car'],Movement detected for car: a parking lot with cars parked in it,14.447766666666668,14.447766666666668,3,"['frame_0433.jpg', 'frame_0433.jpg', 'frame_0433.jpg']",False
+427,['car'],Movement detected for car: a parking lot with cars parked in it,14.481133333333334,14.481133333333334,2,"['frame_0434.jpg', 'frame_0434.jpg']",False
+428,['car'],Movement detected for car: a parking lot with cars parked in it,14.5145,14.5145,2,"['frame_0435.jpg', 'frame_0435.jpg']",False
+429,['car'],Movement detected for car: a parking lot with cars parked in it,14.547866666666668,14.547866666666668,1,['frame_0436.jpg'],False
+430,['car'],Movement detected for car: a parking lot with cars parked in it,14.581233333333332,14.581233333333332,2,"['frame_0437.jpg', 'frame_0437.jpg']",False
+431,['car'],Movement detected for car: a parking lot with cars parked in it,14.6146,14.6146,3,"['frame_0438.jpg', 'frame_0438.jpg', 'frame_0438.jpg']",False
+432,['car'],Movement detected for car: a parking lot with cars parked in it,14.647966666666669,14.647966666666669,2,"['frame_0439.jpg', 'frame_0439.jpg']",False
+433,['car'],Movement detected for car: a parking lot with cars parked in it,14.681333333333336,14.681333333333336,1,['frame_0440.jpg'],False
+434,['car'],Movement detected for car: a parking lot with cars parked in it,14.7147,14.7147,2,"['frame_0441.jpg', 'frame_0441.jpg']",False
+435,['car'],Movement detected for car: a parking lot with cars parked in it,14.748066666666668,14.748066666666668,3,"['frame_0442.jpg', 'frame_0442.jpg', 'frame_0442.jpg']",False
+436,['car'],Movement detected for car: a parking lot with cars parked in it,14.781433333333334,14.781433333333334,3,"['frame_0443.jpg', 'frame_0443.jpg', 'frame_0443.jpg']",False
+437,['car'],Movement detected for car: a parking lot with cars parked in it,14.8148,14.8148,3,"['frame_0444.jpg', 'frame_0444.jpg', 'frame_0444.jpg']",False
+438,['car'],Movement detected for car: a parking lot with cars parked in it,14.848166666666668,14.848166666666668,3,"['frame_0445.jpg', 'frame_0445.jpg', 'frame_0445.jpg']",False
+439,['car'],Movement detected for car: a parking lot with cars parked in it,14.881533333333334,14.881533333333334,3,"['frame_0446.jpg', 'frame_0446.jpg', 'frame_0446.jpg']",False
+440,['car'],Movement detected for car: a parking lot with cars parked in it,14.9149,14.9149,3,"['frame_0447.jpg', 'frame_0447.jpg', 'frame_0447.jpg']",False
+441,['car'],Movement detected for car: a parking lot with cars parked in it,14.948266666666669,14.948266666666669,3,"['frame_0448.jpg', 'frame_0448.jpg', 'frame_0448.jpg']",False
+442,['car'],Movement detected for car: a parking lot with cars parked in it,14.981633333333336,14.981633333333336,3,"['frame_0449.jpg', 'frame_0449.jpg', 'frame_0449.jpg']",False
+443,['car'],Movement detected for car: a parking lot with cars parked in it,15.015,15.015,3,"['frame_0450.jpg', 'frame_0450.jpg', 'frame_0450.jpg']",False
+444,['car'],Movement detected for car: a parking lot with cars parked in it,15.048366666666668,15.048366666666668,3,"['frame_0451.jpg', 'frame_0451.jpg', 'frame_0451.jpg']",False
+445,['car'],Movement detected for car: a parking lot with cars parked in it,15.081733333333334,15.081733333333334,2,"['frame_0452.jpg', 'frame_0452.jpg']",False
+446,['car'],Movement detected for car: a parking lot with cars parked in it,15.1151,15.1151,2,"['frame_0453.jpg', 'frame_0453.jpg']",False
+447,['car'],Movement detected for car: a parking lot with cars parked in it,15.148466666666668,15.148466666666668,3,"['frame_0454.jpg', 'frame_0454.jpg', 'frame_0454.jpg']",False
+448,['car'],Movement detected for car: a parking lot with cars parked in it,15.181833333333334,15.181833333333334,3,"['frame_0455.jpg', 'frame_0455.jpg', 'frame_0455.jpg']",False
+449,['car'],Movement detected for car: a parking lot with cars parked in it,15.2152,15.2152,3,"['frame_0456.jpg', 'frame_0456.jpg', 'frame_0456.jpg']",False
+450,['car'],Movement detected for car: a parking lot with cars parked in it,15.248566666666669,15.248566666666669,3,"['frame_0457.jpg', 'frame_0457.jpg', 'frame_0457.jpg']",False
+451,['car'],Movement detected for car: a parking lot with cars parked in it,15.281933333333336,15.281933333333336,3,"['frame_0458.jpg', 'frame_0458.jpg', 'frame_0458.jpg']",False
+452,['car'],Movement detected for car: a parking lot with cars parked in it,15.3153,15.3153,3,"['frame_0459.jpg', 'frame_0459.jpg', 'frame_0459.jpg']",False
+453,['car'],Movement detected for car: a parking lot with cars parked in it,15.348666666666668,15.348666666666668,3,"['frame_0460.jpg', 'frame_0460.jpg', 'frame_0460.jpg']",False
+454,['car'],Movement detected for car: a parking lot with cars parked in it,15.382033333333334,15.382033333333334,3,"['frame_0461.jpg', 'frame_0461.jpg', 'frame_0461.jpg']",False
+455,['car'],Movement detected for car: a parking lot with cars parked in it,15.4154,15.4154,4,"['frame_0462.jpg', 'frame_0462.jpg', 'frame_0462.jpg', 'frame_0462.jpg']",False
+456,['car'],Movement detected for car: a parking lot with cars parked in it,15.448766666666668,15.448766666666668,4,"['frame_0463.jpg', 'frame_0463.jpg', 'frame_0463.jpg', 'frame_0463.jpg']",False
+457,['car'],Movement detected for car: a parking lot with cars parked in it,15.482133333333334,15.482133333333334,3,"['frame_0464.jpg', 'frame_0464.jpg', 'frame_0464.jpg']",False
+458,['car'],Movement detected for car: a parking lot with cars parked in it,15.5155,15.5155,4,"['frame_0465.jpg', 'frame_0465.jpg', 'frame_0465.jpg', 'frame_0465.jpg']",False
+459,['car'],Movement detected for car: a parking lot with cars parked in it,15.548866666666669,15.548866666666669,6,"['frame_0466.jpg', 'frame_0466.jpg', 'frame_0466.jpg', 'frame_0466.jpg', 'frame_0466.jpg', 'frame_0466.jpg']",False
+460,['car'],Movement detected for car: a parking lot with cars parked in it,15.582233333333336,15.582233333333336,6,"['frame_0467.jpg', 'frame_0467.jpg', 'frame_0467.jpg', 'frame_0467.jpg', 'frame_0467.jpg', 'frame_0467.jpg']",False
+461,['car'],Movement detected for car: a parking lot with cars parked in it,15.6156,15.6156,5,"['frame_0468.jpg', 'frame_0468.jpg', 'frame_0468.jpg', 'frame_0468.jpg', 'frame_0468.jpg']",False
+462,['car'],Movement detected for car: a parking lot with cars parked in it,15.648966666666668,15.648966666666668,4,"['frame_0469.jpg', 'frame_0469.jpg', 'frame_0469.jpg', 'frame_0469.jpg']",False
+463,['car'],Movement detected for car: a parking lot with cars parked in it,15.682333333333334,15.682333333333334,5,"['frame_0470.jpg', 'frame_0470.jpg', 'frame_0470.jpg', 'frame_0470.jpg', 'frame_0470.jpg']",False
+464,['car'],Movement detected for car: a parking lot with cars parked in it,15.7157,15.7157,5,"['frame_0471.jpg', 'frame_0471.jpg', 'frame_0471.jpg', 'frame_0471.jpg', 'frame_0471.jpg']",False
+465,['car'],Movement detected for car: a parking lot with cars parked in it,15.749066666666668,15.749066666666668,4,"['frame_0472.jpg', 'frame_0472.jpg', 'frame_0472.jpg', 'frame_0472.jpg']",False
+466,"['bench', 'car']","Movement detected for bench, car: a parking lot with cars parked in it",15.782433333333334,15.782433333333334,6,"['frame_0473.jpg', 'frame_0473.jpg', 'frame_0473.jpg', 'frame_0473.jpg', 'frame_0473.jpg', 'frame_0473.jpg']",True
+467,['car'],Movement detected for car: a parking lot with cars parked in it,15.8158,15.8158,6,"['frame_0474.jpg', 'frame_0474.jpg', 'frame_0474.jpg', 'frame_0474.jpg', 'frame_0474.jpg', 'frame_0474.jpg']",False
+468,['car'],Movement detected for car: a parking lot with cars parked in it,15.849166666666669,15.849166666666669,5,"['frame_0475.jpg', 'frame_0475.jpg', 'frame_0475.jpg', 'frame_0475.jpg', 'frame_0475.jpg']",False
+469,['car'],Movement detected for car: a parking lot with cars parked in it,15.882533333333337,15.882533333333337,5,"['frame_0476.jpg', 'frame_0476.jpg', 'frame_0476.jpg', 'frame_0476.jpg', 'frame_0476.jpg']",False
+470,['car'],Movement detected for car: a parking lot with cars parked in it,15.9159,15.9159,3,"['frame_0477.jpg', 'frame_0477.jpg', 'frame_0477.jpg']",False
+471,['car'],Movement detected for car: a parking lot with cars parked in it,15.949266666666668,15.949266666666668,4,"['frame_0478.jpg', 'frame_0478.jpg', 'frame_0478.jpg', 'frame_0478.jpg']",False
+472,['car'],Movement detected for car: a parking lot with cars parked in it,15.982633333333336,15.982633333333336,4,"['frame_0479.jpg', 'frame_0479.jpg', 'frame_0479.jpg', 'frame_0479.jpg']",False
+473,['car'],Movement detected for car: a parking lot with cars parked in it,16.016000000000002,16.016000000000002,4,"['frame_0480.jpg', 'frame_0480.jpg', 'frame_0480.jpg', 'frame_0480.jpg']",False
+474,['car'],Movement detected for car: a parking lot with cars parked in it,16.049366666666668,16.049366666666668,4,"['frame_0481.jpg', 'frame_0481.jpg', 'frame_0481.jpg', 'frame_0481.jpg']",False
+475,"['bench', 'car']","Movement detected for bench, car: a parking lot with cars parked in it",16.082733333333334,16.082733333333334,4,"['frame_0482.jpg', 'frame_0482.jpg', 'frame_0482.jpg', 'frame_0482.jpg']",True
+476,['car'],Movement detected for car: a parking lot with cars parked in it,16.1161,16.1161,3,"['frame_0483.jpg', 'frame_0483.jpg', 'frame_0483.jpg']",False
+477,['car'],Movement detected for car: a parking lot with cars parked in it,16.14946666666667,16.14946666666667,4,"['frame_0484.jpg', 'frame_0484.jpg', 'frame_0484.jpg', 'frame_0484.jpg']",False
+478,['car'],Movement detected for car: a parking lot with cars parked in it,16.182833333333335,16.182833333333335,4,"['frame_0485.jpg', 'frame_0485.jpg', 'frame_0485.jpg', 'frame_0485.jpg']",False
+479,['car'],Movement detected for car: a parking lot with cars parked in it,16.2162,16.2162,2,"['frame_0486.jpg', 'frame_0486.jpg']",False
+480,['car'],Movement detected for car: a parking lot with cars parked in it,16.249566666666666,16.249566666666666,4,"['frame_0487.jpg', 'frame_0487.jpg', 'frame_0487.jpg', 'frame_0487.jpg']",False
+481,['car'],Movement detected for car: a parking lot with cars parked in it,16.282933333333332,16.282933333333332,4,"['frame_0488.jpg', 'frame_0488.jpg', 'frame_0488.jpg', 'frame_0488.jpg']",False
+482,['car'],Movement detected for car: a parking lot with cars parked in it,16.316300000000002,16.316300000000002,4,"['frame_0489.jpg', 'frame_0489.jpg', 'frame_0489.jpg', 'frame_0489.jpg']",False
+483,['car'],Movement detected for car: a parking lot with cars parked in it,16.349666666666668,16.349666666666668,4,"['frame_0490.jpg', 'frame_0490.jpg', 'frame_0490.jpg', 'frame_0490.jpg']",False
+484,['car'],Movement detected for car: a parking lot with cars parked in it,16.383033333333334,16.383033333333334,4,"['frame_0491.jpg', 'frame_0491.jpg', 'frame_0491.jpg', 'frame_0491.jpg']",False
+485,['car'],Movement detected for car: a parking lot with cars parked in it,16.4164,16.4164,3,"['frame_0492.jpg', 'frame_0492.jpg', 'frame_0492.jpg']",False
+486,['car'],Movement detected for car: a parking lot with cars parked in it,16.44976666666667,16.44976666666667,4,"['frame_0493.jpg', 'frame_0493.jpg', 'frame_0493.jpg', 'frame_0493.jpg']",False
+487,['car'],Movement detected for car: a parking lot with cars parked in it,16.483133333333335,16.483133333333335,4,"['frame_0494.jpg', 'frame_0494.jpg', 'frame_0494.jpg', 'frame_0494.jpg']",False
+488,['car'],Movement detected for car: a parking lot with cars parked in it,16.5165,16.5165,4,"['frame_0495.jpg', 'frame_0495.jpg', 'frame_0495.jpg', 'frame_0495.jpg']",False
+489,['car'],Movement detected for car: a parking lot with cars parked in it,16.549866666666667,16.549866666666667,3,"['frame_0496.jpg', 'frame_0496.jpg', 'frame_0496.jpg']",False
+490,['car'],Movement detected for car: a parking lot with cars parked in it,16.583233333333332,16.583233333333332,2,"['frame_0497.jpg', 'frame_0497.jpg']",False
+491,['car'],Movement detected for car: a parking lot with cars parked in it,16.616600000000002,16.616600000000002,3,"['frame_0498.jpg', 'frame_0498.jpg', 'frame_0498.jpg']",False
+492,['car'],Movement detected for car: a parking lot with cars parked in it,16.649966666666668,16.649966666666668,3,"['frame_0499.jpg', 'frame_0499.jpg', 'frame_0499.jpg']",False
+493,['car'],Movement detected for car: a parking lot with cars parked in it,16.683333333333334,16.683333333333334,4,"['frame_0500.jpg', 'frame_0500.jpg', 'frame_0500.jpg', 'frame_0500.jpg']",False
+494,['car'],Movement detected for car: a parking lot with cars parked in it,16.7167,16.7167,4,"['frame_0501.jpg', 'frame_0501.jpg', 'frame_0501.jpg', 'frame_0501.jpg']",False
+495,['car'],Movement detected for car: a parking lot with cars parked in it,16.75006666666667,16.75006666666667,4,"['frame_0502.jpg', 'frame_0502.jpg', 'frame_0502.jpg', 'frame_0502.jpg']",False
+496,['car'],Movement detected for car: a parking lot with cars parked in it,16.783433333333335,16.783433333333335,3,"['frame_0503.jpg', 'frame_0503.jpg', 'frame_0503.jpg']",False
+497,['car'],Movement detected for car: a parking lot with cars parked in it,16.8168,16.8168,2,"['frame_0504.jpg', 'frame_0504.jpg']",False
+498,['car'],Movement detected for car: a parking lot with cars parked in it,16.850166666666667,16.850166666666667,3,"['frame_0505.jpg', 'frame_0505.jpg', 'frame_0505.jpg']",False
+499,['car'],Movement detected for car: a parking lot with cars parked in it,16.883533333333332,16.883533333333332,2,"['frame_0506.jpg', 'frame_0506.jpg']",False
+500,['car'],Movement detected for car: a parking lot with cars parked in it,16.916900000000002,16.916900000000002,4,"['frame_0507.jpg', 'frame_0507.jpg', 'frame_0507.jpg', 'frame_0507.jpg']",False
+501,['car'],Movement detected for car: a parking lot with cars parked in it,16.950266666666668,16.950266666666668,3,"['frame_0508.jpg', 'frame_0508.jpg', 'frame_0508.jpg']",False
+502,['car'],Movement detected for car: a parking lot with cars parked in it,16.983633333333334,16.983633333333334,3,"['frame_0509.jpg', 'frame_0509.jpg', 'frame_0509.jpg']",False
+503,['car'],Movement detected for car: a parking lot with cars parked in it,17.017,17.017,3,"['frame_0510.jpg', 'frame_0510.jpg', 'frame_0510.jpg']",False
+504,['car'],Movement detected for car: a parking lot with cars parked in it,17.05036666666667,17.05036666666667,3,"['frame_0511.jpg', 'frame_0511.jpg', 'frame_0511.jpg']",False
+505,"['truck', 'car']","Movement detected for truck, car: a parking lot with cars parked in it",17.083733333333335,17.083733333333335,5,"['frame_0512.jpg', 'frame_0512.jpg', 'frame_0512.jpg', 'frame_0512.jpg', 'frame_0512.jpg']",False
+506,['car'],Movement detected for car: a parking lot with cars parked in it,17.1171,17.1171,4,"['frame_0513.jpg', 'frame_0513.jpg', 'frame_0513.jpg', 'frame_0513.jpg']",False
+507,['car'],Movement detected for car: a parking lot with cars parked in it,17.150466666666667,17.150466666666667,3,"['frame_0514.jpg', 'frame_0514.jpg', 'frame_0514.jpg']",False
+508,['car'],Movement detected for car: a parking lot with cars parked in it,17.183833333333332,17.183833333333332,4,"['frame_0515.jpg', 'frame_0515.jpg', 'frame_0515.jpg', 'frame_0515.jpg']",False
+509,['car'],Movement detected for car: a parking lot with cars parked in it,17.217200000000002,17.217200000000002,4,"['frame_0516.jpg', 'frame_0516.jpg', 'frame_0516.jpg', 'frame_0516.jpg']",False
+510,['car'],Movement detected for car: a parking lot with cars parked in it,17.250566666666668,17.250566666666668,4,"['frame_0517.jpg', 'frame_0517.jpg', 'frame_0517.jpg', 'frame_0517.jpg']",False
+511,['car'],Movement detected for car: a parking lot with cars parked in it,17.283933333333334,17.283933333333334,3,"['frame_0518.jpg', 'frame_0518.jpg', 'frame_0518.jpg']",False
+512,['car'],Movement detected for car: a parking lot with cars parked in it,17.3173,17.3173,2,"['frame_0519.jpg', 'frame_0519.jpg']",False
+513,['car'],Movement detected for car: a parking lot with cars parked in it,17.35066666666667,17.35066666666667,1,['frame_0520.jpg'],False
+514,['car'],Movement detected for car: a parking lot with cars parked in it,17.384033333333335,17.384033333333335,1,['frame_0521.jpg'],False
+515,['car'],Movement detected for car: a parking lot with cars parked in it,17.450766666666667,17.450766666666667,1,['frame_0523.jpg'],False
+516,['car'],Movement detected for car: a parking lot with cars parked in it,17.484133333333332,17.484133333333332,1,['frame_0524.jpg'],False
+517,['car'],Movement detected for car: a parking lot with cars parked in it,17.517500000000005,17.517500000000005,1,['frame_0525.jpg'],False
+518,['car'],Movement detected for car: a parking lot with cars parked in it,17.550866666666668,17.550866666666668,1,['frame_0526.jpg'],False
+519,['car'],Movement detected for car: a parking lot with cars parked in it,17.584233333333334,17.584233333333334,1,['frame_0527.jpg'],False
+520,['car'],Movement detected for car: a parking lot with cars parked in it,17.6176,17.6176,1,['frame_0528.jpg'],False
+521,['car'],Movement detected for car: a parking lot with cars parked in it,17.684333333333335,17.684333333333335,1,['frame_0530.jpg'],False
+522,['car'],Movement detected for car: a parking lot with cars parked in it,17.7177,17.7177,1,['frame_0531.jpg'],False
+523,['car'],Movement detected for car: a parking lot with cars parked in it,17.751066666666667,17.751066666666667,1,['frame_0532.jpg'],False
+524,['car'],Movement detected for car: a parking lot with cars parked in it,17.784433333333332,17.784433333333332,1,['frame_0533.jpg'],False
+525,['car'],Movement detected for car: a parking lot with cars parked in it,17.817800000000002,17.817800000000002,1,['frame_0534.jpg'],False
+526,"['bench', 'car']","Movement detected for bench, car: a parking lot with cars parked in it",17.851166666666668,17.851166666666668,2,"['frame_0535.jpg', 'frame_0535.jpg']",True
+527,"['bench', 'car']","Movement detected for bench, car: a parking lot with cars parked in it",17.884533333333334,17.884533333333334,2,"['frame_0536.jpg', 'frame_0536.jpg']",True
+528,['car'],Movement detected for car: a parking lot with cars parked in it,17.9179,17.9179,1,['frame_0537.jpg'],False
+529,['car'],Movement detected for car: a parking lot with cars parked in it,17.95126666666667,17.95126666666667,2,"['frame_0538.jpg', 'frame_0538.jpg']",False
+530,['car'],Movement detected for car: a parking lot with cars parked in it,17.984633333333335,17.984633333333335,2,"['frame_0539.jpg', 'frame_0539.jpg']",False
+531,['car'],Movement detected for car: a parking lot with cars parked in it,18.018,18.018,1,['frame_0540.jpg'],False
+532,['car'],Movement detected for car: a parking lot with cars parked in it,18.051366666666667,18.051366666666667,1,['frame_0541.jpg'],False
+533,['car'],Movement detected for car: a parking lot with cars parked in it,18.08473333333333,18.08473333333333,2,"['frame_0542.jpg', 'frame_0542.jpg']",False
+534,['car'],Movement detected for car: a parking lot with cars parked in it,18.1181,18.1181,2,"['frame_0543.jpg', 'frame_0543.jpg']",False
+535,['car'],Movement detected for car: a parking lot with cars parked in it,18.151466666666668,18.151466666666668,1,['frame_0544.jpg'],False
+536,['car'],Movement detected for car: a parking lot with cars parked in it,18.184833333333334,18.184833333333334,2,"['frame_0545.jpg', 'frame_0545.jpg']",False
+537,['car'],Movement detected for car: a parking lot with cars parked in it,18.2182,18.2182,1,['frame_0546.jpg'],False
+538,['car'],Movement detected for car: a parking lot with cars parked in it,18.25156666666667,18.25156666666667,3,"['frame_0547.jpg', 'frame_0547.jpg', 'frame_0547.jpg']",False
+539,['car'],Movement detected for car: a parking lot with cars parked in it,18.28493333333333,18.28493333333333,1,['frame_0548.jpg'],False
+540,['car'],Movement detected for car: a parking lot with cars parked in it,18.3183,18.3183,2,"['frame_0549.jpg', 'frame_0549.jpg']",False
+541,['car'],Movement detected for car: a parking lot with cars parked in it,18.351666666666667,18.351666666666667,1,['frame_0550.jpg'],False
+542,['car'],Movement detected for car: a parking lot with cars parked in it,18.38503333333333,18.38503333333333,2,"['frame_0551.jpg', 'frame_0551.jpg']",False
+543,['car'],Movement detected for car: a parking lot with cars parked in it,18.4184,18.4184,1,['frame_0552.jpg'],False
+544,['car'],Movement detected for car: a parking lot with cars parked in it,18.451766666666668,18.451766666666668,2,"['frame_0553.jpg', 'frame_0553.jpg']",False
+545,['car'],Movement detected for car: a parking lot with cars parked in it,18.485133333333334,18.485133333333334,2,"['frame_0554.jpg', 'frame_0554.jpg']",False
+546,['car'],Movement detected for car: a parking lot with cars parked in it,18.5185,18.5185,2,"['frame_0555.jpg', 'frame_0555.jpg']",False
+547,['car'],Movement detected for car: a parking lot with cars parked in it,18.55186666666667,18.55186666666667,3,"['frame_0556.jpg', 'frame_0556.jpg', 'frame_0556.jpg']",False
+548,['car'],Movement detected for car: a parking lot with cars parked in it,18.58523333333333,18.58523333333333,3,"['frame_0557.jpg', 'frame_0557.jpg', 'frame_0557.jpg']",False
+549,['car'],Movement detected for car: a parking lot with cars parked in it,18.6186,18.6186,3,"['frame_0558.jpg', 'frame_0558.jpg', 'frame_0558.jpg']",False
+550,['car'],Movement detected for car: a parking lot with cars parked in it,18.651966666666667,18.651966666666667,3,"['frame_0559.jpg', 'frame_0559.jpg', 'frame_0559.jpg']",False
+551,['car'],Movement detected for car: a parking lot with cars parked in it,18.68533333333333,18.68533333333333,2,"['frame_0560.jpg', 'frame_0560.jpg']",False
+552,['car'],Movement detected for car: a parking lot with cars parked in it,18.7187,18.7187,2,"['frame_0561.jpg', 'frame_0561.jpg']",False
+553,['car'],Movement detected for car: a parking lot with cars parked in it,18.752066666666668,18.752066666666668,2,"['frame_0562.jpg', 'frame_0562.jpg']",False
+554,['car'],Movement detected for car: a parking lot with cars parked in it,18.785433333333334,18.785433333333334,3,"['frame_0563.jpg', 'frame_0563.jpg', 'frame_0563.jpg']",False
+555,['car'],Movement detected for car: a parking lot with cars parked in it,18.8188,18.8188,3,"['frame_0564.jpg', 'frame_0564.jpg', 'frame_0564.jpg']",False
+556,['car'],Movement detected for car: a parking lot with cars parked in it,18.85216666666667,18.85216666666667,3,"['frame_0565.jpg', 'frame_0565.jpg', 'frame_0565.jpg']",False
+557,['car'],Movement detected for car: a parking lot with cars parked in it,18.88553333333333,18.88553333333333,2,"['frame_0566.jpg', 'frame_0566.jpg']",False
+558,['car'],Movement detected for car: a parking lot with cars parked in it,18.9189,18.9189,3,"['frame_0567.jpg', 'frame_0567.jpg', 'frame_0567.jpg']",False
+559,['car'],Movement detected for car: a parking lot with cars parked in it,18.952266666666667,18.952266666666667,3,"['frame_0568.jpg', 'frame_0568.jpg', 'frame_0568.jpg']",False
+560,['car'],Movement detected for car: a parking lot with cars parked in it,18.98563333333333,18.98563333333333,3,"['frame_0569.jpg', 'frame_0569.jpg', 'frame_0569.jpg']",False
+561,['car'],Movement detected for car: a parking lot with cars parked in it,19.019,19.019,3,"['frame_0570.jpg', 'frame_0570.jpg', 'frame_0570.jpg']",False
+562,['car'],Movement detected for car: a parking lot with cars parked in it,19.052366666666668,19.052366666666668,3,"['frame_0571.jpg', 'frame_0571.jpg', 'frame_0571.jpg']",False
+563,['car'],Movement detected for car: a parking lot with cars parked in it,19.085733333333334,19.085733333333334,2,"['frame_0572.jpg', 'frame_0572.jpg']",False
+564,['car'],Movement detected for car: a parking lot with cars parked in it,19.1191,19.1191,3,"['frame_0573.jpg', 'frame_0573.jpg', 'frame_0573.jpg']",False
+565,['car'],Movement detected for car: a parking lot with cars parked in it,19.152466666666665,19.152466666666665,3,"['frame_0574.jpg', 'frame_0574.jpg', 'frame_0574.jpg']",False
+566,['car'],Movement detected for car: a parking lot with cars parked in it,19.18583333333333,19.18583333333333,2,"['frame_0575.jpg', 'frame_0575.jpg']",False
+567,['car'],Movement detected for car: a parking lot with cars parked in it,19.2192,19.2192,3,"['frame_0576.jpg', 'frame_0576.jpg', 'frame_0576.jpg']",False
+568,['car'],Movement detected for car: a parking lot with cars parked in it,19.252566666666667,19.252566666666667,3,"['frame_0577.jpg', 'frame_0577.jpg', 'frame_0577.jpg']",False
+569,['car'],Movement detected for car: a parking lot with cars parked in it,19.285933333333336,19.285933333333336,3,"['frame_0578.jpg', 'frame_0578.jpg', 'frame_0578.jpg']",False
+570,['car'],Movement detected for car: a parking lot with cars parked in it,19.3193,19.3193,3,"['frame_0579.jpg', 'frame_0579.jpg', 'frame_0579.jpg']",False
+571,['car'],Movement detected for car: a parking lot with cars parked in it,19.352666666666668,19.352666666666668,3,"['frame_0580.jpg', 'frame_0580.jpg', 'frame_0580.jpg']",False
+572,['car'],Movement detected for car: a parking lot with cars parked in it,19.386033333333334,19.386033333333334,2,"['frame_0581.jpg', 'frame_0581.jpg']",False
+573,['car'],Movement detected for car: a parking lot with cars parked in it,19.4194,19.4194,2,"['frame_0582.jpg', 'frame_0582.jpg']",False
+574,['car'],Movement detected for car: a parking lot with cars parked in it,19.45276666666667,19.45276666666667,2,"['frame_0583.jpg', 'frame_0583.jpg']",False
+575,['car'],Movement detected for car: a parking lot with cars parked in it,19.48613333333333,19.48613333333333,2,"['frame_0584.jpg', 'frame_0584.jpg']",False
+576,['car'],Movement detected for car: a parking lot with cars parked in it,19.5195,19.5195,2,"['frame_0585.jpg', 'frame_0585.jpg']",False
+577,['car'],Movement detected for car: a parking lot with cars parked in it,19.552866666666667,19.552866666666667,3,"['frame_0586.jpg', 'frame_0586.jpg', 'frame_0586.jpg']",False
+578,['car'],Movement detected for car: a parking lot with cars parked in it,19.58623333333333,19.58623333333333,4,"['frame_0587.jpg', 'frame_0587.jpg', 'frame_0587.jpg', 'frame_0587.jpg']",False
+579,['car'],Movement detected for car: a parking lot with cars parked in it,19.6196,19.6196,4,"['frame_0588.jpg', 'frame_0588.jpg', 'frame_0588.jpg', 'frame_0588.jpg']",False
+580,['car'],Movement detected for car: a parking lot with cars parked in it,19.652966666666668,19.652966666666668,3,"['frame_0589.jpg', 'frame_0589.jpg', 'frame_0589.jpg']",False
+581,['car'],Movement detected for car: a parking lot with cars parked in it,19.686333333333334,19.686333333333334,3,"['frame_0590.jpg', 'frame_0590.jpg', 'frame_0590.jpg']",False
+582,['car'],Movement detected for car: a parking lot with cars parked in it,19.7197,19.7197,2,"['frame_0591.jpg', 'frame_0591.jpg']",False
+583,['car'],Movement detected for car: a parking lot with cars parked in it,19.75306666666667,19.75306666666667,2,"['frame_0592.jpg', 'frame_0592.jpg']",False
