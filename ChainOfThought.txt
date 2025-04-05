@@ -1,0 +1,44 @@
+This file is a crude representation of the chain of though implied by me (@harsh) while developing this project
+
+Please do check (Includes all the flowcharts, architecture designes,etc.)
+Trail link ---> 'https://excalidraw.com/#room=20a1b259749fb019ea37,03fzfnMRcVu6YihX83t4xQ'
+
+#Requirements and Understanding the project
+Can use Ai assistants - Noted points --> using them for research, Potential approach mapping, pipeline optimization, code optimization. 
+
+Problem statement - 
+Develo[ing a Drone security Analyst agent 
+Given - Docked drone (1-perspective camera assumption)
+               access to live telemetry data (cordinates, altitude) - basically drone location governance
+                Live video feed
+                 
+To do - 
+1. Process --> Telemetry data and video frames
+2. Analysis of video --> Object detection (event basis) 
+3. log generation
+4. Alert system
+5. Inclusion of cross domain element
+6. Create test cases for validation
+7. Information retrival (Keyword search, Time search, Relevance search)
+8. Testing Documentation (System Validation)
+9. videoprocessing, context summaries, agent recommendations, scalability test, and
+    innovative features (e.g., show frame descriptions, agent output, generated
+    captions).
+10. Implement a video summarization feature 
+11. Agentic Chatbot (followup questions)
+12. Sudden changes in telementry data --> flag as security threat (Drone damaged/technical issue)
+
+Problem statement flow (Initial Ideating phase) 
+1. Realtime Detection (object detection [implement event detection] + analysis of security events 
+    Breakdown :- Feed --> flagging security events (Detection) + Video (frame-by-frame/event-b-event) analysis + 
+
+2. Object Identification --> Event (activity) mapping [Multi frame processing approach] + 
+3.  Security Analysis (per event) + Real time update (noti (email/cell) )
+4.  Log maintance + Retrival 
+5. Unified Log generation --> Log retrival and context mapping (clubbing similar events) (eg - blue ford entered 2 times today) 
+6. Report generation (Per event/time basis) 
+
+Points to Understand
+1. Cross-Domain (Indexing) 
+2. VLM scripts, LangChain agent code
+3. Setup and running instructions (Not possible as limited time 
