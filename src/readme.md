@@ -31,6 +31,6 @@ Here are the runtime statistics for the pipeline:
 
 ---
 
-We appreciate your understanding regarding dataset constraints and hosting limitations. Despite these challenges, the solution demonstrates the functionality, modularity, and agentic intelligence expected for the assignment.
+I appreciate your understanding regarding dataset constraints and hosting limitations. Despite these challenges, the solution demonstrates the functionality, modularity, and agentic intelligence expected for the assignment.
 
 
