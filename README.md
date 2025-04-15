@@ -5,7 +5,7 @@
 The **Drone Security Analyst Agentic Chatbot** is a real-time surveillance intelligence system that processes drone footage and telemetry data to deliver semantically enriched, context-aware analytics, alerting, and automated reporting. It is designed for deployment in resource-constrained environments like **Kaggle Cloud Notebooks**, while still demonstrating production-grade modularity and extensibility.
 
 > 🕒 This project was completed within **8 hours**, inclusive of code development, documentation, and testing, using AI tools to enhance velocity and precision. Due some emergencies on my end, i was unable to dedicate the time promised. I apologise and take responsiblity for the same. 
-
+![Architecture](images/Data_Pipeline.png)
 ---
 
 ## 📂 Table of Contents
